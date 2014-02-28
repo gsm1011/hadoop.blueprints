@@ -1,7 +1,7 @@
 library("ggplot2")
 library(scales) # for axis and scale operations.
 
-setwd("./");
+setwd("./data");
 
 records <- read.table("runninglog.csv", header=TRUE, sep=",");
 
