@@ -1,3 +1,0 @@
-CUSTOMER1	Michael	25	New York	M
-CUSTOMER2	Jim	32	Boston	M
-CUSTOMER3	Tom	27	San Fransisco	F
