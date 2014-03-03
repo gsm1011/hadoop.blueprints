@@ -2,8 +2,8 @@ HADOOP_HOME=/home/shumin/softwares/hadoop
 HADOOP_EXAMPLE_JAR=$(HADOOP_HOME)/share/hadoop/mapreduce/hadoop-mapreduce-examples-2.2.0.jar
 HADOOP_STREAMING_JAR=$(HADOOP_HOME)/share/hadoop/tools/lib/hadoop-streaming-2.2.0.jar
 JAR_FILE=./chapter1.jar
-CLASSPATH1=`hadoop classpath`:./chapter1.jar
-CLASSPATH2=`hbase classpath`:./chapter1.jar
+# CLASSPATH1=`hadoop classpath`:./chapter1.jar
+CLASSPATH1=`hbase classpath`:./chapter1.jar
 JC_OPTS=-nowarn
 SRC=DataBulkLoader.java HBaseDump.java KDDUserLoader.java SimpleWriter.java WordCount.java
 CLASSES=$(SRC:.java=.class)
