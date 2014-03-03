@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+
+<configuration>
+  <property>
+    <name>fs.default.name</name>
+    <value>hdfs://localhost:54310</value>
+    <!-- value>s3n://packt-bucket/</value -->
+    <description>
+      The name of the default file system. A URI whose scheme
+      and authority determine the FileSystem implementation. 
+      The URI's scheme determines the config property
+      (fs.SCHEME.impl) naming the FileSystem implementation
+      class.The uri's authority is used to determine the host, 
+      port, etc. for a filesystem.
+    </description>
+  </property>
+<property>
+  <name>fs.s3n.awsAccessKeyId</name>
+  <value>AKIAJTNU3BMCWSL6IV7Q</value>
+</property>
+
+<property>
+  <name>fs.s3n.awsSecretAccessKey</name>
+  <value>Z20VB195MckmLPJOpXJ1giFRlLdNxzobzOcxs1uk</value>
+</property>
+
+<property>
+  <name>hadoop.tmp.dir</name>
+  <value>/home/shumin/hadoop/tmp/2.2.0/</value>
+</property>
+
+  <property>
+    <name>hadoop.proxyuser.shumin.hosts</name>
+    <value>knoesis157.cs.wright.edu</value>
+  </property>
+  <property>
+    <name>hadoop.proxyuser.shumin.groups</name>
+    <value>shumin</value>
+  </property>
+</configuration>
