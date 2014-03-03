@@ -1,4 +1,4 @@
-//package com.packt.hadoop;
+package com.packt.hadoop;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.hbase.io.ImmutableBytesWritable;
 import org.apache.hadoop.mapred.lib.NullOutputFormat;

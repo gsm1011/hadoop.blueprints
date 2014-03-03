@@ -1,6 +1,6 @@
-book = LOAD 'data/book.txt' USING PigStorage('\t') AS (isbn:chararray, name:chararray);
-customer = LOAD 'data/customer.txt' USING PigStorage('\t') AS (cid:chararray, name:chararray, age:int, city:chararray, sex:chararray);
-purchase = LOAD 'data/purchase.txt' USING PigStorage('\t') AS (year:int, cid:chararray, isbn:chararray, seller:chararray, price:int);
+book = LOAD 'pittutorial/book.txt' USING PigStorage('\t') AS (isbn:chararray, name:chararray);
+customer = LOAD 'pittutorial/customer.txt' USING PigStorage('\t') AS (cid:chararray, name:chararray, age:int, city:chararray, sex:chararray);
+purchase = LOAD 'pittutorial/purchase.txt' USING PigStorage('\t') AS (year:int, cid:chararray, isbn:chararray, seller:chararray, price:int);
 
 grouppurchase = GROUP purchase BY seller;
 sellerearn = FOREACH grouppurchase GENERATE group, SUM(purchase.price);

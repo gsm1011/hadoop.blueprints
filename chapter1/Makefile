@@ -1,7 +1,9 @@
 HADOOP_HOME=/home/shumin/softwares/hadoop
 HADOOP_EXAMPLE_JAR=$(HADOOP_HOME)/share/hadoop/mapreduce/hadoop-mapreduce-examples-2.2.0.jar
 HADOOP_STREAMING_JAR=$(HADOOP_HOME)/share/hadoop/tools/lib/hadoop-streaming-2.2.0.jar
-CLASSPATH1=`hadoop classpath`:`hbase classpath`:.
+JAR_FILE=./chapter1.jar
+CLASSPATH1=`hadoop classpath`:./chapter1.jar
+CLASSPATH2=`hbase classpath`:./chapter1.jar
 JC_OPTS=-nowarn
 SRC=DataBulkLoader.java HBaseDump.java KDDUserLoader.java SimpleWriter.java WordCount.java
 CLASSES=$(SRC:.java=.class)
@@ -14,11 +16,11 @@ geninput:
 	-hadoop fs -rm -r wc.input
 	@hadoop jar $(HADOOP_EXAMPLE_JAR) randomtextwriter wc.input
 
-runwcjava: $(CLASSES)
+runwcjava: $(JAR_FILE)
 	@echo "Deleting the target directory....."
 	-hadoop fs -rm -r wc.output
 	@echo "Running the random sort ..."
-	java -cp $(CLASSPATH1) WordCount wc.input wc.output
+	@hadoop jar $(JAR_FILE) com.packt.hadoop.WordCount wc.input wc.output
 
 # run wordcount with hadoop streaming with python.
 runwcpy:
@@ -58,9 +60,12 @@ runwcbash:
   -reducer "uniq -c" \
   -file map.sh
 
+makejar: $(CLASSES)
+	jar -cvf $(JAR_FILE) -C classes .
+
 %.class: %.java
 	@echo "Compiling source file --> " $<
-	@javac $(JC_OPTS) -cp $(CLASSPATH1) $<
+	@javac $(JC_OPTS) -cp $(CLASSPATH1) $< -d classes
 
 clean:
-	@rm -v -rf $(CLASSES)
+	@rm -v -rf ./classes/*
