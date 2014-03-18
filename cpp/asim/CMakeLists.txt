@@ -1,0 +1,17 @@
+set(CMAKE_LEGACY_CYGWIN_WIN32 0)
+cmake_minimum_required(VERSION 2.8)
+PROJECT(Asim CXX)
+
+if(UNIX)
+    SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -std=c++11")
+endif()
+
+ADD_EXECUTABLE(Clock Clock.cpp)
+ADD_EXECUTABLE(Date Date.cpp)
+ADD_EXECUTABLE(MovieData MovieData.cpp)
+ADD_EXECUTABLE(MovieProfit MovieProfit.cpp)
+ADD_EXECUTABLE(Tips Tips.cpp)
+ADD_EXECUTABLE(WidgetFactory WidgetFactory.cpp)
+ADD_EXECUTABLE(StoreInventory StoreInventory.cpp)
+ADD_EXECUTABLE(PayRoll PayRoll.cpp)
+ADD_EXECUTABLE(Sort Sort.cpp)

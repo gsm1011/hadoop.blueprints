@@ -1,0 +1,314 @@
+// -*- mode: c++; eval: (auto-fill-mode 1); -*-
+
+#include<iostream> 
+#include<cstdlib> 
+#include<ctime>
+#include<cmath>
+#include<queue>
+#include"Commons"
+
+template<typename T> 
+class Sort {
+
+public: 
+
+  void mergeSort(T array[], sort_size_t size) {
+    if(size <= 1) return; 
+
+    // split
+    int leftLen = size / 2; 
+    int rightLen = size - leftLen; 
+
+    // recursive. 
+    mergeSort(array, leftLen); 
+    mergeSort(array + leftLen, rightLen); 
+
+    // merge 
+    merge(array, leftLen, array + leftLen, rightLen); 
+
+    printArray(array, size); 
+  }
+
+  // used by merge sort. 
+  void merge(T array1[], sort_size_t size1, T array2[], sort_size_t size2) {
+    T array[size1 + size2];
+    int idx = 0, idx1 = 0, idx2 = 0; 
+
+    while((idx1 < size1) && (idx2 < size2)) {
+      if(array1[idx1] < array2[idx2]) array[idx++] = array1[idx1++]; 
+      else array[idx++] = array2[idx2++]; 
+    }
+    
+    while (idx1 < size1) {
+      array[idx++] = array1[idx1++]; 
+    }
+    
+    while(idx2 < size2) {
+      array[idx++] = array2[idx2++]; 
+    }
+    
+    //std::cout << "Array1: " << std::endl; 
+    //printArray(array1, size1);
+
+    //std::cout << "Array2: " << std::endl; 
+    //printArray(array2, size2); 
+
+    // put the values in array into array1. 
+    for(int i = 0; i < size1 + size2; i++) {
+      array1[i] = array[i]; 
+    }
+  }
+
+  // heap sort algorithm.
+  void heapSort(T array[], sort_size_t size) {
+    // build heap from the array. 
+    heapify(array, size); 
+
+    // sort by removing each element from the heap. 
+    for(sort_size_t i = 0; i < size; i++) {
+      T holder = array[0]; 
+      for(sort_size_t j = 1; j < size - i; j++) {
+	array[j-1] = array[j]; 
+      }
+      array[size - i - 1] = holder; 
+      printArray(array, size); // heap sort.
+      heapify(array, size - i - 1);
+    }
+  }
+
+  // build a heap from the given array. 
+  void heapify(T array[], sort_size_t size) {
+    
+    for(sort_size_t i = 1; i < size; i++) {
+     
+      sort_size_t current = i; 
+      sort_size_t parent = floor((i-1)/2); 
+
+      // swap if current is larger than parent. 
+      while ((array[current] > array[parent]) && (parent >= 0)) {
+	swap(array[current], array[parent]); 
+	current = parent; 
+	parent = floor((current - 1) / 2); 
+      }
+    }
+  }
+
+  // this version requires additional space, 
+  // an in place version can be implemented as an improvement. 
+  void quickSort(T array[], sort_size_t size) {
+    std::cout << "Original Array: "; printArray(array, size); 
+    // base case. 
+    if (size <= 1) return; 
+    
+    // find a pivot. 
+    sort_size_t pivot = size / 2; 
+    T pivotVal = array[pivot];
+    
+    // reorder the list so that pivot less contains smaller value 
+    // and pivot greater contains larger value. 
+    sort_size_t len1 = 0, len2 = 0; // actual length of data in two arrays. 
+    T less[size], greater[size]; 
+    for(int i = 0; i < size; ++i) {
+      if(i == pivot) continue; 
+      if(array[i] <= array[pivot]) less[len1++] = array[i]; 
+      else greater[len2++] = array[i]; 
+    }
+
+    //std::cout << "Pivot value: " << array[pivot];
+    //std::cout << std::endl << "Array less: "; 
+    //printArray(less, len1); 
+    //std::cout << "Array greater: "; 
+    //printArray(greater, len2); 
+
+    // recursively do this. 
+    quickSort(less, len1); 
+    quickSort(greater, len2); 
+
+    // concatenate the two arrays. 
+    int idx; 
+    for(idx = 0; idx < len1; idx++) {
+      array[idx] = less[idx]; 
+    }
+    array[idx++] = pivotVal; 
+    
+    for(int i = 0; i < len2 && idx < size; i++) {
+      array[idx++] = greater[i]; 
+    }
+
+    std::cout << "Combined array: "; 
+    printArray(array, size); 
+  }
+
+  void shellSort(T array[], sort_size_t size) {
+    T array1[size]; 
+    int idx = 0; 
+    //5-sorting. 
+    for(int i = 0; i < size; i += 5) {
+      array1[idx++] = array[i]; 
+    }
+    insertionSort(array1, idx); 
+    idx = 0; 
+    for(int i = 0; i < size; i += 5) {
+      array[i] = array1[idx++]; 
+    }
+
+    // 3-sorting. 
+    idx = 0; 
+    for(int i = 0; i < size; i += 3) {
+      array1[idx++] = array[i]; 
+    }
+    insertionSort(array1, idx); 
+    idx = 0; 
+    for(int i = 0; i < size; i += 3) {
+      array[i] = array1[idx++];
+    }
+
+    // 1-sorting. 
+    insertionSort(array, size); 
+  }
+
+  void combSort(T array[], sort_size_t size) {
+    int gap = size; 
+    int swaps = 1; 
+    while(true) {
+      if((gap <= 1) && (swaps == 0)) break; 
+      gap = (int)(gap / 2); 
+      swaps = 0; 
+
+      for(int i = 0; i + gap < size; i++) {
+	if(array[i] > array[i + gap]) {
+	  swap(array[i], array[i + gap]); 
+	  swaps++; 
+	}
+      }
+      //std::cout << "swaps: " << swaps << std::endl; 
+      printArray(array, size); 
+    }
+  }
+
+  // for integers only. 
+  void countingSort(int array[], sort_size_t size) {
+    int max = findMax(array, size); 
+    int min = findMin(array, size); 
+    // int range = max - min + 1; 
+    int array1[max + 1]; 
+    for(int i = 0; i < max + 1; i++) {
+      array1[i] = 0; 
+    }
+    
+    for(int i = 0; i < size; i++) {
+      array1[array[i]]++; 
+    }
+
+    std::cout << "Max: " << max << std::endl;
+    std::cout << "Min: " << min << std::endl;
+    std::cout << "Count: "; printArray(array1, max + 1); 
+    int idx = 0; 
+    for(int i = min; i <= max; i++) {
+      for(int j = 0; j < array1[i]; j++) {
+	array[idx++] = i; 
+      }
+    }
+  }
+
+  T findMin(T array[], sort_size_t size) {
+    T min = array[0];
+    for (int i = 0; i < size; i++) {
+      if(array[i] < min) min = array[i];
+    }
+    return min;
+  }
+
+  T findMax(T array[], sort_size_t size) {
+    T max = array[0];
+    for (int i = 0; i < size; i++) {
+      if(array[i] > max) max = array[i]; 
+    }
+    return max;
+  }
+
+  void bucketSort(T array[], sort_size_t size, sort_size_t buckets) {
+    // create the buckets. 
+    T bucketArray[buckets][size]; 
+    int sizes[buckets];
+    for(int i = 0; i < buckets; i++) {
+      sizes[i] = 0; 
+    }
+
+    int max = findMax(array, size); 
+    int min = findMin(array, size); 
+    //int split = max / buckets; // range of each bucket. 
+    for(int i = 0; i < size; i++) {
+      int whichBucket = (array[i] - min) / (max - min); 
+      bucketArray[whichBucket][sizes[whichBucket]++] = array[i]; 
+    }
+
+    // sort each bucket. 
+    int idx = 0; 
+    for(int i = 0; i < buckets; i++) {
+      insertionSort(bucketArray[i], sizes[i]);
+      // put the sorted array into the original list. 
+      for(int j = 0; j < sizes[i]; j++) {
+	array[idx++] = bucketArray[i][j]; 
+      }
+    }
+  }
+
+
+  void radixSort(T array[], sort_size_t size) {
+    printArray(array, size); 
+    std::cout << "TODO" << std::endl; 
+  }
+
+
+  void insertionSort(T array[], sort_size_t size) {
+    T holder; 
+    for(sort_size_t i = 1; i < size; i++) {
+      holder = array[i]; 
+      sort_size_t j; 
+      for(j = i-1; j >= 0; j--) {
+	if(array[j] <= holder) break; 
+	// std::cout << "value of index: " << j << std::endl; 
+	// std::cout << array[0] << " " << array[1] << std::endl; 
+	array[j+1] = array[j];      
+      }
+      array[j+1] = holder; 
+      printArray(array, size); 
+    }
+  }
+ 
+  void bubbleSort(T array[], sort_size_t size) {
+    for(sort_size_t i = 0; i < size; i++) {
+      for(sort_size_t j = 0; j < size; j++) {
+	if(array[i] < array[j]) {
+
+	  T tmp = array[i]; 
+	  array[i] = array[j]; 
+	  array[j] = tmp; 
+	}
+      }
+      printArray(array, size); 
+    }
+  }
+
+  void selectionSort(T array[], sort_size_t size) {
+    bool sorted = false; 
+    T maxVal; 
+    int maxIndex; 
+    for(sort_size_t i = 0; i < size && !sorted; i++) {
+      maxVal = array[0]; 
+      maxIndex = 0; 
+      sorted = true; 
+      for(sort_size_t j = 1; j < size - i; j++) {
+	if(array[j] >= maxVal) {
+	  maxVal = array[j]; 
+	  maxIndex = j; 
+	} else sorted = false; 
+      }
+      array[maxIndex] = array[size - i - 1]; 
+      array[size - i - 1] = maxVal; 
+
+      printArray(array, size); 
+    }
+  }
+};

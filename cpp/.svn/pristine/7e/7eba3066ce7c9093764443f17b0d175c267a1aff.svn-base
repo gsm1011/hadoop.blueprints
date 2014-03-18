@@ -1,0 +1,14 @@
+set(CMAKE_LEGACY_CYGWIN_WIN32 0)
+
+PROJECT(singleton CXX)
+
+if(UNIX)
+    SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -std=c++11")
+endif()
+
+ADD_SUBDIRECTORY(design.pattern)
+ADD_SUBDIRECTORY(algorithms)
+ADD_SUBDIRECTORY(ellen)
+ADD_SUBDIRECTORY(asim)
+#ADD_SUBDIRECTORY(courses)
+#ADD_SUBDIRECTORY(adt)

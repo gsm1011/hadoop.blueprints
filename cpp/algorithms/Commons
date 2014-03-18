@@ -1,0 +1,117 @@
+// -*- mode: c++ -*-
+#ifndef __COMMONS__
+#define __COMMONS__
+
+#include<iostream> 
+#include<cstdlib>
+#include<cstring>
+#include<cmath>
+#include<ctime>
+
+typedef int sort_size_t; 
+template<typename T> void swap(T& a, T& b); 
+template<typename T> void reverse(T array[], int size); 
+void genRandom(int array[], size_t size);
+void reverseStr(char *str); 
+int factorial(int f);
+bool isPrime(int num); 
+bool isLeapYear(int year); 
+int gcd(int x, int y); // greatest common divisor.
+int mcm(int x, int y); // minimum common multiplier. 
+void printPrimeFact(int x); // the prime factorization of number.
+
+int mcm(int x, int y) {
+  if((x == y) && (x == 0)) return 0; 
+  return x * y / gcd(x, y); 
+}
+
+int gcd(int x, int y) {
+  if(x < 0 || y < 0) return -1;
+  if(y > x) swap(x, y);
+
+  if(x == y) return x; 
+  if(0 == x) return y; 
+  if(0 == y) return x;
+
+  // Euclid's algorithm. 
+  // gcd(x, y) = gcd(y, x % y); 
+  // gcd(x, 0) = x; 
+  while(y != 0) {
+    int tmp = y; 
+    y = x % tmp; 
+    x = tmp; 
+  }
+  return x; 
+}
+
+int factorial(int f) {
+  int factorial = 1; 
+  while(f >= 1) {
+    factorial *= f--;
+  }
+  return factorial; 
+}
+
+bool isPrime(int num) {
+  int max = sqrt(num); 
+  for(int i = 2; i < max; i++) {
+    if(0 == num % i) return false; 
+  }
+  return true; 
+}
+
+bool isLeapYear(int year) {
+  if(0 == year % 100) {
+    if(0 == year % 400) return true; 
+    else return false; 
+  } else return 0 == year % 4; 
+}
+
+void reverseStr(char* str) {
+  if(NULL == str || 0 == strcmp("", str)) return ;
+  char *start = str, *end = str; 
+  char ch; 
+  while(*end) { // test if at the end. 
+    end++; 
+  }
+  end--; 
+  while(start <= end) {
+    ch = *start; 
+    *start++ = *end; 
+    *end-- = ch; 
+  }
+}
+
+template<typename T>
+void reverse(T array[], int size) {
+  for(int i = 0; i < size / 2; i++) {
+    swap(array[i], array[size-i-1]); 
+  }
+}
+
+template<typename T>
+void swap(T& a, T& b) {
+  T tmp; 
+  tmp = a; 
+  a = b; 
+  b = tmp; 
+}
+
+void genRandom(int array[], size_t size) {
+  srand(time(NULL)); 
+  // generate random array for testing. 
+
+  for(size_t i = 0; i < size; i++) {
+    array[i] = rand() % 100; 
+  }
+}
+
+template<typename T> 
+void printArray(T array[], sort_size_t size) {
+  for( int i = 0; i < size; i++) {
+    std::cout << array[i] << " "; 
+  }
+  std::cout << std::endl; 
+}
+
+#endif
