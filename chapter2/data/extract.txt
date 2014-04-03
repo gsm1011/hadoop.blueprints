@@ -1,0 +1,3373 @@
+
+
+common-user 28409 hadoop-common-user ----->>>>>
+Date: Tue, 31 May 2011 21:19:51 -0700 (PDT)
+From: Jane Chen <jxchen_us_1999@yahoo.com>
+Subject: Re: trying to select technology
+
+
+common-user 28408 hadoop-common-user ----->>>>>
+Date: Tue, 31 May 2011 21:19:51 -0700 (PDT)
+From: Jane Chen <jxchen_us_1999@yahoo.com>
+Subject: Re: trying to select technology
+
+
+common-user 28410 hadoop-common-user ----->>>>>
+Date: Tue, 31 May 2011 22:00:00 -0700 (PDT)
+From: neeral beladia <neeral_beladia@yahoo.com>
+Subject: DistributedCache - getLocalCacheFiles method returns null
+
+
+common-user 28411 hadoop-common-user ----->>>>>
+From: "medcl" <m@infinitbyte.com>
+Subject: Re: trying to select technology
+Date: Wed, 1 Jun 2011 13:57:21 +0800
+From: Jane Chen
+Subject: Re: trying to select technology
+
+
+common-user 28412 hadoop-common-user ----->>>>>
+Date: Wed, 1 Jun 2011 11:59:50 +0530
+Subject: Re: Benchmarks with different workloads
+From: Matthew John <tmatthewjohn1988@gmail.com>
+
+
+common-user 28413 hadoop-common-user ----->>>>>
+From: Amar Kamat <amarrk@yahoo-inc.com>
+Date: Wed, 1 Jun 2011 14:29:08 +0530
+Subject: Re: Benchmarks with different workloads
+
+
+common-user 28414 hadoop-common-user ----->>>>>
+Date: Wed, 1 Jun 2011 14:48:46 +0530
+Subject: Data node is taking time to start.. "Error register
+From: praveenesh kumar <praveenesh@gmail.com>
+
+
+common-user 28415 hadoop-common-user ----->>>>>
+From: Ken Williams <zoo9000@hotmail.com>
+Subject: Heap Size question.
+Date: Wed, 1 Jun 2011 11:35:17 +0000
+
+
+common-user 28416 hadoop-common-user ----->>>>>
+Subject: Re: Heap Size question.
+From: Joey Echeverria <joey@cloudera.com>
+Date: Wed, 1 Jun 2011 08:01:47 -0400
+
+
+common-user 28417 hadoop-common-user ----->>>>>
+Date: Wed, 1 Jun 2011 14:58:09 +0200
+Subject: Re: How to debug why I don't get hadoop logs?
+From: Gabriele Kahlout <gabriele@mysimpatico.com>
+
+
+common-user 28418 hadoop-common-user ----->>>>>
+Date: Wed, 1 Jun 2011 12:55:03 -0300
+Subject: Re: Starting JobTracker Locally but binding to remote Address
+From: "Juan P." <gordoslocos@gmail.com>
+
+
+common-user 28419 hadoop-common-user ----->>>>>
+Date: Wed, 1 Jun 2011 10:23:52 -0700 (PDT)
+From: neeral beladia <neeral_beladia@yahoo.com>
+Subject: Re: DistributedCache - getLocalCacheFiles method returns null
+From: neeral beladia <neeral_beladia@yahoo.com>
+Subject: DistributedCache - getLocalCacheFiles method returns null
+
+
+common-user 28420 hadoop-common-user ----->>>>>
+Date: Wed, 1 Jun 2011 21:28:54 +0200
+Subject: Adding first datanode isn't working
+From: MilleBii <millebii@gmail.com>
+
+
+common-user 28421 hadoop-common-user ----->>>>>
+Date: Wed, 1 Jun 2011 15:31:54 -0400
+Subject: Hadoop Filecrusher! V2 Released!
+From: Edward Capriolo <edlinuxguru@gmail.com>
+
+
+common-user 28422 hadoop-common-user ----->>>>>
+Date: Wed, 1 Jun 2011 14:42:07 -0500
+Subject: speculative execution
+From: Shrinivas Joshi <jshrinivas@gmail.com>
+
+
+common-user 28423 hadoop-common-user ----->>>>>
+Date: Thu, 2 Jun 2011 02:13:36 +0530 (IST)
+From: jagaran das <jagaran_das@yahoo.co.in>
+Subject: Re: Adding first datanode isn't working
+
+
+common-user 28424 hadoop-common-user ----->>>>>
+Date: Wed, 1 Jun 2011 22:58:38 +0200
+Subject: Re: Adding first datanode isn't working
+From: MilleBii <millebii@gmail.com>
+
+
+common-user 28425 hadoop-common-user ----->>>>>
+Date: Thu, 2 Jun 2011 00:37:23 +0200
+Subject: Re: Adding first datanode isn't working
+From: MilleBii <millebii@gmail.com>
+
+
+common-user 28426 hadoop-common-user ----->>>>>
+Date: Thu, 2 Jun 2011 04:33:36 +0530 (IST)
+From: jagaran das <jagaran_das@yahoo.co.in>
+Subject: Re: Adding first datanode isn't working
+
+
+common-user 28427 hadoop-common-user ----->>>>>
+Date: Wed, 01 Jun 2011 18:56:59 -0600
+From: hadoopman <hadoopman@gmail.com>
+Subject: Re: Poor IO performance on a 10 node cluster.
+
+
+common-user 28428 hadoop-common-user ----->>>>>
+From: Ted Dunning <tdunning@maprtech.com>
+Date: Wed, 1 Jun 2011 21:05:33 -0700
+Subject: Re: Poor IO performance on a 10 node cluster.
+
+
+common-user 28429 hadoop-common-user ----->>>>>
+Date: Thu, 2 Jun 2011 09:38:05 +0530
+Subject: IO benchmark ingesting data into HDFS
+From: Matthew John <tmatthewjohn1988@gmail.com>
+
+
+common-user 28430 hadoop-common-user ----->>>>>
+Subject: Re: speculative execution
+From: Matei Zaharia <matei@eecs.berkeley.edu>
+Date: Wed, 1 Jun 2011 22:40:28 -0700
+
+
+common-user 28431 hadoop-common-user ----->>>>>
+Date: Thu, 2 Jun 2011 16:38:25 +1000
+Subject: application only require to process partial dataset?
+From: elton sky <eltonsky9404@gmail.com>
+
+
+common-user 28432 hadoop-common-user ----->>>>>
+Date: Thu, 2 Jun 2011 14:07:30 +0530
+Subject: Fwd: Data node is taking time to start.. "Error register
+From: praveenesh kumar <praveenesh@gmail.com>
+From: praveenesh kumar <praveenesh@gmail.com>
+Date: Wed, Jun 1, 2011 at 2:48 PM
+Subject: Data node is taking time to start.. "Error register
+
+
+common-user 28433 hadoop-common-user ----->>>>>
+Date: Thu, 2 Jun 2011 11:28:06 +0200
+Subject: Re: Adding first datanode isn't working
+From: MilleBii <millebii@gmail.com>
+
+
+common-user 28434 hadoop-common-user ----->>>>>
+Date: Thu, 02 Jun 2011 16:48:22 +0530
+From: Adarsh Sharma <adarsh.sharma@orkash.com>
+Subject: Running Back to Back Map-reduce jobs
+
+
+common-user 28435 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Thu, 2 Jun 2011 16:52:50 +0530
+Subject: Re: Running Back to Back Map-reduce jobs
+
+
+common-user 28436 hadoop-common-user ----->>>>>
+Date: Thu, 02 Jun 2011 17:05:02 +0530
+From: Adarsh Sharma <adarsh.sharma@orkash.com>
+Subject: Re: Running Back to Back Map-reduce jobs
+
+
+common-user 28437 hadoop-common-user ----->>>>>
+Date: Thu, 02 Jun 2011 17:13:55 +0530
+From: Adarsh Sharma <adarsh.sharma@orkash.com>
+Subject: How to run multiple mapreduce in hadoop pipes?
+
+
+common-user 28438 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Thu, 2 Jun 2011 17:15:51 +0530
+Subject: Re: Running Back to Back Map-reduce jobs
+
+
+common-user 28439 hadoop-common-user ----->>>>>
+Date: Thu, 02 Jun 2011 17:17:55 +0530
+From: Adarsh Sharma <adarsh.sharma@orkash.com>
+Subject: Re: Running Back to Back Map-reduce jobs
+
+
+common-user 28440 hadoop-common-user ----->>>>>
+Date: Thu, 02 Jun 2011 17:23:08 +0300
+From: George Kousiouris <gkousiou@mail.ntua.gr>
+Subject: change of default port 8020
+
+
+common-user 28441 hadoop-common-user ----->>>>>
+Date: Thu, 02 Jun 2011 10:32:03 -0400
+From: John Armstrong <john.armstrong@ccri.com>
+Subject: Re: change of default port 8020
+
+
+common-user 28442 hadoop-common-user ----->>>>>
+Date: Thu, 02 Jun 2011 17:48:41 +0300
+From: George Kousiouris <gkousiou@mail.ntua.gr>
+Subject: Re: change of default port 8020
+
+
+common-user 28443 hadoop-common-user ----->>>>>
+From: sulabh choudhury <sulabhc@gmail.com>
+Date: Thu, 2 Jun 2011 08:56:49 -0700
+Subject: Re: change of default port 8020
+
+
+common-user 28444 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Thu, 2 Jun 2011 22:07:32 +0530
+Subject: Re: change of default port 8020
+
+
+common-user 28445 hadoop-common-user ----->>>>>
+Date: Thu, 02 Jun 2011 19:47:45 +0300
+From: George Kousiouris <gkousiou@mail.ntua.gr>
+Subject: Re: change of default port 8020
+
+
+common-user 28446 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Thu, 2 Jun 2011 22:26:33 +0530
+Subject: Re: change of default port 8020
+
+
+common-user 28447 hadoop-common-user ----->>>>>
+Date: Thu, 02 Jun 2011 20:00:26 +0300
+From: George Kousiouris <gkousiou@mail.ntua.gr>
+Subject: Re: change of default port 8020
+
+
+common-user 28448 hadoop-common-user ----->>>>>
+From: Tanping Wang <tanping@yahoo-inc.com>
+Date: Thu, 2 Jun 2011 10:12:21 -0700
+Subject: RE: Can not access hadoop cluster from outside
+
+
+common-user 28449 hadoop-common-user ----->>>>>
+From: Tanping Wang <tanping@yahoo-inc.com>
+Date: Thu, 2 Jun 2011 10:12:21 -0700
+Subject: RE: Can not access hadoop cluster from outside
+
+
+common-user 28450 hadoop-common-user ----->>>>>
+Date: Thu, 2 Jun 2011 12:59:05 -0500
+Subject: Re: speculative execution
+From: Shrinivas Joshi <jshrinivas@gmail.com>
+
+
+common-user 28451 hadoop-common-user ----->>>>>
+Date: Thu, 02 Jun 2011 14:01:58 -0400
+From: Le Zhao <lezhao@cs.cmu.edu>
+Subject: Re: change of default port 8020
+
+
+common-user 28452 hadoop-common-user ----->>>>>
+Date: Thu, 02 Jun 2011 21:09:03 +0300
+From: George Kousiouris <gkousiou@mail.ntua.gr>
+Subject: Re: change of default port 8020
+
+
+common-user 28453 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Thu, 2 Jun 2011 23:42:51 +0530
+Subject: Re: change of default port 8020
+
+
+common-user 28454 hadoop-common-user ----->>>>>
+Date: Thu, 02 Jun 2011 21:30:45 +0300
+From: George Kousiouris <gkousiou@mail.ntua.gr>
+Subject: Re: change of default port 8020
+
+
+common-user 28455 hadoop-common-user ----->>>>>
+Date: Thu, 2 Jun 2011 15:43:37 -0700
+Subject: SequenceFile.Reader
+From: Mark question <markq2011@gmail.com>
+
+
+common-user 28456 hadoop-common-user ----->>>>>
+Date: Thu, 02 Jun 2011 18:49:20 -0400
+From: John Armstrong <john.armstrong@ccri.com>
+Subject: Re: SequenceFile.Reader
+
+
+common-user 28457 hadoop-common-user ----->>>>>
+Date: Fri, 03 Jun 2011 01:20:23 +0200
+From: Claus Stadler <cstadler@informatik.uni-leipzig.de>
+Subject: Re: ClassCastException with LineRecordReader (hadoop release version
+
+
+common-user 28458 hadoop-common-user ----->>>>>
+Date: Fri, 3 Jun 2011 09:13:50 +0800
+Subject: Re: Can not access hadoop cluster from outside
+From: Jeff Zhang <zjffdu@gmail.com>
+
+
+common-user 28459 hadoop-common-user ----->>>>>
+Date: Thu, 2 Jun 2011 18:20:53 -0700
+Subject: Re: SequenceFile.Reader
+From: Mark question <markq2011@gmail.com>
+
+
+common-user 28460 hadoop-common-user ----->>>>>
+Date: Fri, 3 Jun 2011 10:42:15 +0530
+Subject: Hbase Web UI Interface on hbase 0.90.3 ?
+From: praveenesh kumar <praveenesh@gmail.com>
+
+
+common-user 28461 hadoop-common-user ----->>>>>
+Date: Thu, 2 Jun 2011 22:32:45 -0700
+Subject: Re: SequenceFile.Reader
+From: Mark question <markq2011@gmail.com>
+
+
+common-user 28462 hadoop-common-user ----->>>>>
+Date: Fri, 3 Jun 2011 16:07:44 +0530
+Subject: Does Hadoop 0.20.2 and HBase 0.90.3 compatible ??
+From: praveenesh kumar <praveenesh@gmail.com>
+
+
+common-user 28463 hadoop-common-user ----->>>>>
+Date: Fri, 3 Jun 2011 16:54:07 +0530
+Subject: Identifying why a task is taking long on a given hadoop node
+From: Mayuresh <mayuresh.kshirsagar@gmail.com>
+
+
+common-user 28464 hadoop-common-user ----->>>>>
+Date: Fri, 3 Jun 2011 04:47:10 -0700 (PDT)
+From: Andrew Purtell <apurtell@apache.org>
+Subject: Re: Does Hadoop 0.20.2 and HBase 0.90.3 compatible ??
+
+
+common-user 28465 hadoop-common-user ----->>>>>
+Subject: Re: Does Hadoop 0.20.2 and HBase 0.90.3 compatible ??
+From: Brian Bockelman <bbockelm@cse.unl.edu>
+Date: Fri, 3 Jun 2011 07:23:16 -0500
+
+
+common-user 28466 hadoop-common-user ----->>>>>
+Date: Thu, 2 Jun 2011 22:37:55 -0700
+Subject: Re: Hbase Web UI Interface on hbase 0.90.3 ?
+From: lohit <lohit.vijayarenu@gmail.com>
+
+
+common-user 28467 hadoop-common-user ----->>>>>
+Date: Fri, 03 Jun 2011 15:37:15 +0300
+From: George Kousiouris <gkousiou@mail.ntua.gr>
+Subject: Re: change of default port 8020
+
+
+common-user 28468 hadoop-common-user ----->>>>>
+Date: Fri, 3 Jun 2011 14:52:57 +0200
+Subject: Job failing on same map twice no logs
+From: MilleBii <millebii@gmail.com>
+
+
+common-user 28469 hadoop-common-user ----->>>>>
+Subject: Re: Does Hadoop 0.20.2 and HBase 0.90.3 compatible ??
+From: Cosmin Lehene <clehene@adobe.com>
+Date: Fri, 3 Jun 2011 17:47:40 +0300
+
+
+common-user 28470 hadoop-common-user ----->>>>>
+From: Joe Greenawalt <joe.greenawalt@gmail.com>
+Date: Fri, 3 Jun 2011 16:55:25 -0400
+Subject: remotely downloading file
+
+
+common-user 28471 hadoop-common-user ----->>>>>
+From: "Habermaas, William" <William.Habermaas@fatwire.com>
+Date: Fri, 3 Jun 2011 14:05:31 -0700
+Subject: RE: remotely downloading file
+
+
+common-user 28472 hadoop-common-user ----->>>>>
+Date: Fri, 03 Jun 2011 17:18:13 -0500
+From: Shi Yu <shiyu@uchicago.edu>
+Subject: ERROR java.io.IOException: Spill failed debug
+
+
+common-user 28473 hadoop-common-user ----->>>>>
+From: Aaron Baff <Aaron.Baff@telescope.tv>
+Date: Fri, 3 Jun 2011 17:14:23 -0700
+Subject: Make reducer task exit early
+
+
+common-user 28474 hadoop-common-user ----->>>>>
+Date: Sat, 4 Jun 2011 10:46:27 +0200
+Subject: Re: Job failing on same map twice no logs
+From: MilleBii <millebii@gmail.com>
+
+
+common-user 28475 hadoop-common-user ----->>>>>
+Date: Sat, 4 Jun 2011 12:33:09 +0200
+Subject: Re: Job failing on same map twice no logs
+From: MilleBii <millebii@gmail.com>
+
+
+common-user 28476 hadoop-common-user ----->>>>>
+Date: Sun, 5 Jun 2011 00:34:45 +0800
+Subject: Re: Make reducer task exit early
+From: Yaozhen Pan <itzhak.pan@gmail.com>
+
+
+common-user 28477 hadoop-common-user ----->>>>>
+Date: Sat, 04 Jun 2011 10:14:41 -0700
+From: Mark <static.void.dev@gmail.com>
+Subject: Backing up namenode
+
+
+common-user 28478 hadoop-common-user ----->>>>>
+From: sulabh choudhury <sulabhc@gmail.com>
+Date: Sun, 5 Jun 2011 00:44:22 -0700
+Subject: Re: Backing up namenode
+
+
+common-user 28479 hadoop-common-user ----->>>>>
+Date: Sun, 05 Jun 2011 11:08:10 +0100
+From: Steve Loughran <stevel@apache.org>
+Subject: Re: Identifying why a task is taking long on a given hadoop node
+
+
+common-user 28480 hadoop-common-user ----->>>>>
+Date: Sun, 5 Jun 2011 20:04:20 +0900
+Subject: How to split a specified number of rows per Map
+From: edward choi <mp2893@gmail.com>
+
+
+common-user 28481 hadoop-common-user ----->>>>>
+From: Shi Yu <shiyu@uchicago.edu>
+Subject: Verbose screen logging on hadoop-0.20.203.0
+Date: Sun,  5 Jun 2011 12:04:14 -0500 (CDT)
+
+
+common-user 28482 hadoop-common-user ----->>>>>
+Date: Sun, 5 Jun 2011 13:13:52 -0400
+Subject: Re: Verbose screen logging on hadoop-0.20.203.0
+From: Edward Capriolo <edlinuxguru@gmail.com>
+
+
+common-user 28483 hadoop-common-user ----->>>>>
+Date: Sun, 5 Jun 2011 17:59:42 +0100 (BST)
+From: Martin Atukunda <matlads@yahoo.co.uk>
+Subject: Link error on http://hadoop.apache.org/common/
+
+
+common-user 28484 hadoop-common-user ----->>>>>
+From: Shi Yu <shiyu@uchicago.edu>
+Subject: Re: Verbose screen logging on hadoop-0.20.203.0
+Date: Sun,  5 Jun 2011 19:17:09 -0500 (CDT)
+
+
+common-user 28485 hadoop-common-user ----->>>>>
+Date: Sun, 5 Jun 2011 22:49:51 -0700 (PDT)
+From: relpak <kapler@irit.fr>
+Subject: HOD is locked on Ringmaster at : xxx
+
+
+common-user 28486 hadoop-common-user ----->>>>>
+Date: Mon, 6 Jun 2011 12:09:35 +0530
+Subject: Hadoop is not working after adding hadoop-core-0.20-append-r1056497.jar
+From: praveenesh kumar <praveenesh@gmail.com>
+
+
+common-user 28487 hadoop-common-user ----->>>>>
+Date: Mon, 6 Jun 2011 17:22:58 +1000
+Subject: Why inter-rack communication in mapreduce slow?
+From: elton sky <eltonsky9404@gmail.com>
+
+
+common-user 28488 hadoop-common-user ----->>>>>
+Date: Mon, 6 Jun 2011 14:18:49 +0530
+Subject: Hadoop not working after replacing hadoop-core.jar with hadoop-core-append.jar
+From: praveenesh kumar <praveenesh@gmail.com>
+From: praveenesh kumar <praveenesh@gmail.com>
+Date: Mon, Jun 6, 2011 at 12:09 PM
+Subject: Hadoop is not working after adding
+
+
+common-user 28489 hadoop-common-user ----->>>>>
+Date: Mon, 06 Jun 2011 10:28:07 +0100
+From: Steve Loughran <stevel@apache.org>
+Subject: Re: Why inter-rack communication in mapreduce slow?
+
+
+common-user 28490 hadoop-common-user ----->>>>>
+Date: Mon, 06 Jun 2011 10:35:59 +0100
+From: Steve Loughran <stevel@apache.org>
+Subject: Re: Starting a Hadoop job outside the cluster
+
+
+common-user 28491 hadoop-common-user ----->>>>>
+Date: Mon, 6 Jun 2011 21:04:24 +1000
+Subject: Re: Why inter-rack communication in mapreduce slow?
+From: elton sky <eltonsky9404@gmail.com>
+
+
+common-user 28492 hadoop-common-user ----->>>>>
+Date: Mon, 6 Jun 2011 09:01:48 -0400
+Subject: Re: Why inter-rack communication in mapreduce slow?
+From: Joey Echeverria <joey@cloudera.com>
+
+
+common-user 28493 hadoop-common-user ----->>>>>
+Subject: Re: Why inter-rack communication in mapreduce =?UTF-8?Q?slow=3F?=
+Date: Mon, 06 Jun 2011 09:18:45 -0400
+From: <darren@ontrenet.com>
+
+
+common-user 28494 hadoop-common-user ----->>>>>
+Date: Mon, 06 Jun 2011 09:21:51 -0400
+From: John Armstrong <john.armstrong@ccri.com>
+Subject: Re: Why inter-rack communication in mapreduce =?UTF-8?Q?slow=3F?=
+
+
+common-user 28495 hadoop-common-user ----->>>>>
+Date: Mon, 6 Jun 2011 18:51:57 +0530
+Subject: HBase Web UI showing exception everytime I am running it
+From: praveenesh kumar <praveenesh@gmail.com>
+
+
+common-user 28496 hadoop-common-user ----->>>>>
+Date: Mon, 6 Jun 2011 18:53:48 +0530
+Subject: Re: Hadoop not working after replacing hadoop-core.jar with hadoop-core-append.jar
+From: praveenesh kumar <praveenesh@gmail.com>
+
+
+common-user 28497 hadoop-common-user ----->>>>>
+Subject: Re: Why inter-rack communication in mapreduce =?UTF-8?Q?slow=3F?=
+Date: Mon, 06 Jun 2011 09:26:11 -0400
+From: <darren@ontrenet.com>
+
+
+common-user 28498 hadoop-common-user ----->>>>>
+Date: Mon, 06 Jun 2011 09:28:57 -0400
+From: John Armstrong <john.armstrong@ccri.com>
+Subject: Re: Why inter-rack communication in mapreduce =?UTF-8?Q?slow=3F?=
+
+
+common-user 28499 hadoop-common-user ----->>>>>
+Subject: Re: Why inter-rack communication in mapreduce =?UTF-8?Q?slow=3F?=
+Date: Mon, 06 Jun 2011 09:34:56 -0400
+From: <darren@ontrenet.com>
+
+
+common-user 28500 hadoop-common-user ----->>>>>
+Date: Mon, 06 Jun 2011 16:38:54 +0300
+From: George Kousiouris <gkousiou@mail.ntua.gr>
+Subject: moving of a block from one rack to another
+
+
+common-user 28501 hadoop-common-user ----->>>>>
+Date: Mon, 06 Jun 2011 09:40:12 -0400
+From: John Armstrong <john.armstrong@ccri.com>
+Subject: Re: Why inter-rack communication in mapreduce =?UTF-8?Q?slow=3F?=
+
+
+common-user 28502 hadoop-common-user ----->>>>>
+Date: Mon, 6 Jun 2011 23:40:25 +1000
+Subject: Re: Why inter-rack communication in mapreduce slow?
+From: elton sky <eltonsky9404@gmail.com>
+
+
+common-user 28503 hadoop-common-user ----->>>>>
+Subject: Re: Why inter-rack communication in mapreduce =?UTF-8?Q?slow=3F?=
+Date: Mon, 06 Jun 2011 09:49:33 -0400
+From: <darren@ontrenet.com>
+
+
+common-user 28504 hadoop-common-user ----->>>>>
+Date: Mon, 6 Jun 2011 09:53:53 -0400
+Subject: Re: Why inter-rack communication in mapreduce slow?
+From: Joey Echeverria <joey@cloudera.com>
+
+
+common-user 28505 hadoop-common-user ----->>>>>
+Date: Mon, 6 Jun 2011 23:58:53 +1000
+Subject: Re: Why inter-rack communication in mapreduce slow?
+From: elton sky <eltonsky9404@gmail.com>
+
+
+common-user 28506 hadoop-common-user ----->>>>>
+Subject: Re: Hadoop not working after replacing hadoop-core.jar with hadoop-core-append.jar
+From: Mike Spreitzer <mspreitz@us.ibm.com>
+Date: Mon, 6 Jun 2011 10:18:24 -0400
+From:   praveenesh kumar <praveenesh@gmail.com>
+Date:   06/06/2011 09:24 AM
+Subject:        Re: Hadoop not working after replacing hadoop-core.jar 
+
+
+common-user 28507 hadoop-common-user ----->>>>>
+Subject: Re: Why inter-rack communication in mapreduce =?UTF-8?Q?slow=3F?=
+Date: Mon, 06 Jun 2011 11:00:05 -0400
+From: <darren@ontrenet.com>
+
+
+common-user 28508 hadoop-common-user ----->>>>>
+Date: Mon, 6 Jun 2011 10:18:40 -0500
+Subject: timeouts with java FileSystem API
+From: Scott Fines <scottfines@gmail.com>
+
+
+common-user 28509 hadoop-common-user ----->>>>>
+Date: Mon, 6 Jun 2011 08:29:18 -0700
+Subject: Re: Hadoop not working after replacing hadoop-core.jar with hadoop-core-append.jar
+From: Stack <stack@duboce.net>
+
+
+common-user 28510 hadoop-common-user ----->>>>>
+Date: Mon, 6 Jun 2011 21:08:31 +0530
+Subject: Re: Hadoop not working after replacing hadoop-core.jar with hadoop-core-append.jar
+From: praveenesh kumar <praveenesh@gmail.com>
+
+
+common-user 28511 hadoop-common-user ----->>>>>
+From: Michael Segel <michael_segel@hotmail.com>
+Subject: RE: Why inter-rack communication in mapreduce slow?
+Date: Mon, 6 Jun 2011 10:42:57 -0500
+
+
+common-user 28512 hadoop-common-user ----->>>>>
+Date: Mon, 6 Jun 2011 08:45:53 -0700
+Subject: Re: Hadoop not working after replacing hadoop-core.jar with hadoop-core-append.jar
+From: Stack <stack@duboce.net>
+
+
+common-user 28513 hadoop-common-user ----->>>>>
+Date: Mon, 6 Jun 2011 10:51:35 -0500
+Subject: Re: speculative execution
+From: Shrinivas Joshi <jshrinivas@gmail.com>
+
+
+common-user 28514 hadoop-common-user ----->>>>>
+Date: Mon, 6 Jun 2011 17:41:53 +0100
+Subject: Re: Why inter-rack communication in mapreduce slow?
+From: Chris Smith <csmithx@gmail.com>
+
+
+common-user 28515 hadoop-common-user ----->>>>>
+Date: Mon, 06 Jun 2011 12:21:00 -0500
+From: Shi Yu <shiyu@uchicago.edu>
+Subject: standalone ? mapred.LocalJobRunner
+
+
+common-user 28516 hadoop-common-user ----->>>>>
+Date: Mon, 06 Jun 2011 10:21:38 -0700
+From: Mark <static.void.dev@gmail.com>
+Subject: Re: Backing up namenode
+
+
+common-user 28517 hadoop-common-user ----->>>>>
+From: Michael Segel <michael_segel@hotmail.com>
+Subject: RE: Why inter-rack communication in mapreduce slow?
+Date: Mon, 6 Jun 2011 13:04:12 -0500
+
+
+common-user 28518 hadoop-common-user ----->>>>>
+Date: Mon, 6 Jun 2011 17:49:06 -0300
+Subject: DistributedCache
+From: "Juan P." <gordoslocos@gmail.com>
+
+
+common-user 28519 hadoop-common-user ----->>>>>
+Date: Mon, 06 Jun 2011 16:14:14 -0500
+From: Shi Yu <shiyu@uchicago.edu>
+Subject: Re: DistributedCache
+
+
+common-user 28520 hadoop-common-user ----->>>>>
+Date: Mon, 06 Jun 2011 17:27:00 -0400
+From: John Armstrong <john.armstrong@ccri.com>
+Subject: Re: DistributedCache
+
+
+common-user 28521 hadoop-common-user ----->>>>>
+Date: Tue, 7 Jun 2011 11:24:53 +1000
+Subject: Re: Why inter-rack communication in mapreduce slow?
+From: elton sky <eltonsky9404@gmail.com>
+
+
+common-user 28522 hadoop-common-user ----->>>>>
+Date: Mon, 6 Jun 2011 22:44:44 -0300
+Subject: Re: Why inter-rack communication in mapreduce slow?
+From: Mauricio Cavallera <mcavallera@gmail.com>
+
+
+common-user 28523 hadoop-common-user ----->>>>>
+Date: Mon, 6 Jun 2011 19:53:08 -0600
+Subject: Re: Why inter-rack communication in mapreduce slow?
+From: James Seigel <james@tynt.com>
+
+
+common-user 28524 hadoop-common-user ----->>>>>
+From: Michael Segel <michael_segel@hotmail.com>
+Subject: RE: Why inter-rack communication in mapreduce slow?
+Date: Mon, 6 Jun 2011 21:15:51 -0500
+
+
+common-user 28525 hadoop-common-user ----->>>>>
+Date: Mon, 6 Jun 2011 19:31:17 -0700
+Subject: Reducing Mapper InputSplit size
+From: Mark question <markq2011@gmail.com>
+
+
+common-user 28526 hadoop-common-user ----->>>>>
+Date: Tue, 7 Jun 2011 08:50:04 +0530 (IST)
+From: jagaran das <jagaran_das@yahoo.co.in>
+Subject: Re: Reducing Mapper InputSplit size
+
+
+common-user 28527 hadoop-common-user ----->>>>>
+From: Panayotis Antonopoulos <antonopoulospan@hotmail.com>
+Subject: RE: Reducing Mapper InputSplit size
+Date: Tue, 7 Jun 2011 06:28:56 +0300
+
+
+common-user 28528 hadoop-common-user ----->>>>>
+Subject: Hbase startup error: NoNode for /hbase/master after running out of space
+Date: Mon, 6 Jun 2011 23:29:23 -0400
+From: "Zhong, Sheng" <Sheng.Zhong@searshc.com>
+
+
+common-user 28529 hadoop-common-user ----->>>>>
+Subject: Hadoop Cluster Multi-datacenter
+From: sanjeev.taran@us.pwc.com
+Date: Mon, 6 Jun 2011 22:07:51 -0700
+
+
+common-user 28530 hadoop-common-user ----->>>>>
+Date: Mon, 6 Jun 2011 22:08:46 -0700
+Subject: Re: Reducing Mapper InputSplit size
+From: Mark question <markq2011@gmail.com>
+
+
+common-user 28531 hadoop-common-user ----->>>>>
+Date: Tue, 7 Jun 2011 13:38:30 +0530
+Subject: Re: Hadoop Cluster Multi-datacenter
+From: Shahnawaz Saifi <shahsaifi@gmail.com>
+
+
+common-user 28532 hadoop-common-user ----->>>>>
+Date: Tue, 07 Jun 2011 10:47:25 +0100
+From: Steve Loughran <stevel@apache.org>
+Subject: Re: Why inter-rack communication in mapreduce slow?
+
+
+common-user 28533 hadoop-common-user ----->>>>>
+Date: Tue, 7 Jun 2011 15:20:06 +0530
+Subject: NameNode is starting with exceptions whenever its trying to start datanodes
+From: praveenesh kumar <praveenesh@gmail.com>
+
+
+common-user 28534 hadoop-common-user ----->>>>>
+Date: Tue, 07 Jun 2011 10:52:53 +0100
+From: Steve Loughran <stevel@apache.org>
+Subject: Re: Hadoop Cluster Multi-datacenter
+
+
+common-user 28535 hadoop-common-user ----->>>>>
+Date: Tue, 07 Jun 2011 11:04:32 +0100
+From: Steve Loughran <stevel@apache.org>
+Subject: Re: NameNode is starting with exceptions whenever its trying to start
+
+
+common-user 28536 hadoop-common-user ----->>>>>
+Date: Tue, 7 Jun 2011 15:44:01 +0530
+Subject: Re: NameNode is starting with exceptions whenever its trying to start datanodes
+From: praveenesh kumar <praveenesh@gmail.com>
+
+
+common-user 28537 hadoop-common-user ----->>>>>
+Date: Tue, 07 Jun 2011 16:15:42 +0530
+From: Adarsh Sharma <adarsh.sharma@orkash.com>
+Subject: Re: Running Back to Back Map-reduce jobs
+
+
+common-user 28538 hadoop-common-user ----->>>>>
+From: Michael Segel <michael_segel@hotmail.com>
+Subject: RE: Hadoop Cluster Multi-datacenter
+Date: Tue, 7 Jun 2011 06:11:05 -0500
+
+
+common-user 28539 hadoop-common-user ----->>>>>
+From: Michael Segel <michael_segel@hotmail.com>
+Subject: RE: Why inter-rack communication in mapreduce slow?
+Date: Tue, 7 Jun 2011 06:23:00 -0500
+
+
+common-user 28540 hadoop-common-user ----->>>>>
+Date: Tue, 7 Jun 2011 09:41:21 -0300
+Subject: Re: DistributedCache
+From: "Juan P." <gordoslocos@gmail.com>
+
+
+common-user 28541 hadoop-common-user ----->>>>>
+Subject: Re: Hadoop Cluster Multi-datacenter
+From: Brian Bockelman <bbockelm@cse.unl.edu>
+Date: Tue, 7 Jun 2011 07:57:29 -0500
+
+
+common-user 28542 hadoop-common-user ----->>>>>
+Date: Tue, 07 Jun 2011 09:52:24 -0400
+From: John Armstrong <john.armstrong@ccri.com>
+Subject: Re: DistributedCache
+
+
+common-user 28543 hadoop-common-user ----->>>>>
+Date: Tue, 7 Jun 2011 07:47:27 -0700 (PDT)
+From: "elena.otero" <elena.otero@hpc-project.com>
+Subject: error -2 (No such file or directory) when mounting fuse-dfs
+
+
+common-user 28544 hadoop-common-user ----->>>>>
+Subject: Re: error -2 (No such file or directory) when mounting fuse-dfs
+From: Brian Bockelman <bbockelm@cse.unl.edu>
+Date: Tue, 7 Jun 2011 09:53:10 -0500
+
+
+common-user 28545 hadoop-common-user ----->>>>>
+Subject: Re: error -2 (No such file or directory) when mounting fuse-dfs
+From: Brian Bockelman <bbockelm@cse.unl.edu>
+Date: Tue, 7 Jun 2011 09:53:10 -0500
+
+
+common-user 28546 hadoop-common-user ----->>>>>
+Date: Tue, 07 Jun 2011 11:21:37 -0500
+From: Shi Yu <shiyu@uchicago.edu>
+Subject: Automatic line number in reducer output
+
+
+common-user 28547 hadoop-common-user ----->>>>>
+From: sulabh choudhury <sulabhc@gmail.com>
+Date: Tue, 7 Jun 2011 09:55:03 -0700
+Subject: Re: Backing up namenode
+
+
+common-user 28548 hadoop-common-user ----->>>>>
+Date: Tue, 07 Jun 2011 19:02:29 +0300
+From: Vitaliy Tymchyshyn <vitaliy.tymchyshyn@zoral.com.ua>
+Subject: Setting Backup Node
+
+
+common-user 28549 hadoop-common-user ----->>>>>
+From: Joe Greenawalt <joe.greenawalt@gmail.com>
+Date: Tue, 7 Jun 2011 13:37:33 -0400
+Subject: Re: remotely downloading file
+
+
+common-user 28550 hadoop-common-user ----->>>>>
+Date: Tue, 7 Jun 2011 23:15:59 +0530 (IST)
+From: jagaran das <jagaran_das@yahoo.co.in>
+Subject: Re: NameNode is starting with exceptions whenever its trying to start datanodes
+
+
+common-user 28551 hadoop-common-user ----->>>>>
+Date: Tue, 7 Jun 2011 23:26:08 +0530
+Subject: Re: NameNode is starting with exceptions whenever its trying to start datanodes
+From: praveenesh kumar <praveenesh@gmail.com>
+
+
+common-user 28552 hadoop-common-user ----->>>>>
+Date: Tue, 7 Jun 2011 23:32:32 +0530 (IST)
+From: jagaran das <jagaran_das@yahoo.co.in>
+Subject: Re: NameNode is starting with exceptions whenever its trying to start datanodes
+
+
+common-user 28553 hadoop-common-user ----->>>>>
+Date: Tue, 7 Jun 2011 23:35:03 +0530
+Subject: Re: NameNode is starting with exceptions whenever its trying to start datanodes
+From: praveenesh kumar <praveenesh@gmail.com>
+
+
+common-user 28554 hadoop-common-user ----->>>>>
+Date: Tue, 7 Jun 2011 23:35:34 +0530 (IST)
+From: jagaran das <jagaran_das@yahoo.co.in>
+Subject: Re: NameNode is starting with exceptions whenever its trying to start datanodes
+
+
+common-user 28555 hadoop-common-user ----->>>>>
+From: "Habermaas, William" <William.Habermaas@fatwire.com>
+Date: Tue, 7 Jun 2011 11:11:43 -0700
+Subject: RE: remotely downloading file
+
+
+common-user 28556 hadoop-common-user ----->>>>>
+Date: Tue, 7 Jun 2011 23:46:29 +0530 (IST)
+From: jagaran das <jagaran_das@yahoo.co.in>
+Subject: Re: NameNode is starting with exceptions whenever its trying to start datanodes
+
+
+common-user 28557 hadoop-common-user ----->>>>>
+Date: Tue, 7 Jun 2011 23:46:55 +0530
+Subject: Re: NameNode is starting with exceptions whenever its trying to start datanodes
+From: praveenesh kumar <praveenesh@gmail.com>
+
+
+common-user 28558 hadoop-common-user ----->>>>>
+Date: Tue, 7 Jun 2011 23:49:50 +0530
+Subject: Re: NameNode is starting with exceptions whenever its trying to start datanodes
+From: praveenesh kumar <praveenesh@gmail.com>
+
+
+common-user 28559 hadoop-common-user ----->>>>>
+From: Joe Greenawalt <joe.greenawalt@gmail.com>
+Date: Tue, 7 Jun 2011 15:30:11 -0400
+Subject: Re: remotely downloading file
+
+
+common-user 28560 hadoop-common-user ----->>>>>
+Date: Wed, 8 Jun 2011 01:02:03 +0530 (IST)
+From: jagaran das <jagaran_das@yahoo.co.in>
+Subject: Re: NameNode is starting with exceptions whenever its trying to start datanodes
+
+
+common-user 28561 hadoop-common-user ----->>>>>
+Date: Tue, 7 Jun 2011 16:34:04 -0400
+Subject: Linker errors with Hadoop pipes
+From: Tom Peters <thomas.d.peters@gmail.com>
+
+
+common-user 28562 hadoop-common-user ----->>>>>
+Date: Tue, 7 Jun 2011 15:12:40 -0700
+Subject: Re: Hbase startup error: NoNode for /hbase/master after running out
+From: Stack <stack@duboce.net>
+
+
+common-user 28563 hadoop-common-user ----->>>>>
+Subject: RE: Hbase startup error: NoNode for /hbase/master after running out of space
+Date: Tue, 7 Jun 2011 18:31:58 -0400
+From: "Zhong, Sheng" <Sheng.Zhong@searshc.com>
+From: saint.ack@gmail.com [mailto:saint.ack@gmail.com] On Behalf Of
+Subject: Re: Hbase startup error: NoNode for /hbase/master after running
+
+
+common-user 28564 hadoop-common-user ----->>>>>
+Date: Tue, 7 Jun 2011 15:53:26 -0700 (PDT)
+From: Shantian Purkad <shantian_purkad@yahoo.com>
+Subject: Linear scalability question
+
+
+common-user 28565 hadoop-common-user ----->>>>>
+Date: Tue, 7 Jun 2011 22:54:51 -0700
+Subject: re-reading
+From: Mark question <markq2011@gmail.com>
+
+
+common-user 28566 hadoop-common-user ----->>>>>
+Date: Wed, 8 Jun 2011 00:24:10 -0700 (PDT)
+From: Oran Charles <charles.oran@gmail.com>
+Subject: Re: Linker errors with Hadoop pipes
+
+
+common-user 28567 hadoop-common-user ----->>>>>
+Date: Wed, 8 Jun 2011 00:40:48 -0700 (PDT)
+From: Oran Charles <charles.oran@gmail.com>
+Subject: Server failed to authenticate, wordcount example
+
+
+common-user 28568 hadoop-common-user ----->>>>>
+Date: Wed, 8 Jun 2011 10:18:00 +0200
+Subject: Re: re-reading
+From: Stefan Wienert <stefan@wienert.cc>
+
+
+common-user 28569 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Wed, 8 Jun 2011 14:28:24 +0530
+Subject: Re: re-reading
+
+
+common-user 28570 hadoop-common-user ----->>>>>
+Date: Wed, 8 Jun 2011 05:27:46 -0700 (PDT)
+From: Oran Charles <charles.oran@gmail.com>
+Subject: Server failed to authenticate, wordcount example
+
+
+common-user 28571 hadoop-common-user ----->>>>>
+Date: Wed, 8 Jun 2011 07:18:04 -0700 (PDT)
+From: "elena.otero" <elena.otero@hpc-project.com>
+Subject: Re: error -2 (No such file or directory) when mounting fuse-dfs
+
+
+common-user 28572 hadoop-common-user ----->>>>>
+From: Madhu Ramanna <madhu@buysight.com>
+Date: Wed, 8 Jun 2011 07:28:31 -0700
+Subject: MultipleTextOutputFormat - temp dir does not exist error
+
+
+common-user 28573 hadoop-common-user ----->>>>>
+Date: Wed, 8 Jun 2011 09:13:35 -0700
+Subject: Re: re-reading
+From: Mark question <markq2011@gmail.com>
+
+
+common-user 28574 hadoop-common-user ----->>>>>
+Date: Wed, 8 Jun 2011 12:30:13 -0400
+Subject: /etc/hosts related error?
+From: bikash sharma <sharmabiks.07@gmail.com>
+
+
+common-user 28575 hadoop-common-user ----->>>>>
+Date: Wed, 8 Jun 2011 09:38:10 -0700
+Subject: Re: re-reading
+From: Mark question <markq2011@gmail.com>
+
+
+common-user 28576 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Wed, 8 Jun 2011 22:18:14 +0530
+Subject: Re: re-reading
+
+
+common-user 28577 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Wed, 8 Jun 2011 22:21:08 +0530
+Subject: Re: MultipleTextOutputFormat - temp dir does not exist error
+
+
+common-user 28578 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Wed, 8 Jun 2011 22:22:10 +0530
+Subject: Re: MultipleTextOutputFormat - temp dir does not exist error
+
+
+common-user 28579 hadoop-common-user ----->>>>>
+Date: Wed, 08 Jun 2011 14:50:18 -0500
+From: Shi Yu <shiyu@uchicago.edu>
+Subject: New API for TupleWritable / Mapside join
+
+
+common-user 28580 hadoop-common-user ----->>>>>
+Date: Wed, 8 Jun 2011 14:17:57 -0700 (PDT)
+From: Shantian Purkad <shantian_purkad@yahoo.com>
+Subject: Re: Linear scalability question
+From: Shantian Purkad <shantian_purkad@yahoo.com>
+Subject: Linear scalability question
+
+
+common-user 28581 hadoop-common-user ----->>>>>
+Date: Wed, 8 Jun 2011 14:19:40 -0700
+Subject: Re: re-reading
+From: Mark question <markq2011@gmail.com>
+
+
+common-user 28582 hadoop-common-user ----->>>>>
+Date: Wed, 8 Jun 2011 19:17:31 -0400
+Subject: Re: Hbase startup error: NoNode for /hbase/master after running out
+From: Joey Echeverria <joey@cloudera.com>
+
+
+common-user 28583 hadoop-common-user ----->>>>>
+Date: Thu, 9 Jun 2011 02:46:37 -0700 (PDT)
+From: Oran Charles <charles.oran@gmail.com>
+Subject: Re: Server failed to authenticate, wordcount example
+
+
+common-user 28584 hadoop-common-user ----->>>>>
+Date: Thu, 9 Jun 2011 02:50:58 -0700 (PDT)
+From: Oran Charles <charles.oran@gmail.com>
+Subject: Re: Linker errors with Hadoop pipes
+
+
+common-user 28585 hadoop-common-user ----->>>>>
+Date: Thu, 9 Jun 2011 12:58:58 +0300
+Subject: hadoop streaming random fails
+From: Onur Cenk <otokan@gmail.com>
+Date: Thu Jun 09 01:38:46 EEST 2011
+
+
+common-user 28586 hadoop-common-user ----->>>>>
+Date: Thu, 9 Jun 2011 12:58:58 +0300
+Subject: hadoop streaming random fails
+From: Onur Cenk <otokan@gmail.com>
+Date: Thu Jun 09 01:38:46 EEST 2011
+
+
+common-user 28587 hadoop-common-user ----->>>>>
+Date: Thu, 9 Jun 2011 12:11:28 +0200
+From: Eric Charles <eric.charles@u-mangate.com>
+Subject: Release or Snapshot from Maven Repositories?
+
+
+common-user 28588 hadoop-common-user ----->>>>>
+Date: Wed, 8 Jun 2011 13:52:22 -0500
+Subject: Input to hadoop corrupted with linux pipe append operation
+From: Taesun Moon <tsunmoon@gmail.com>
+
+
+common-user 28589 hadoop-common-user ----->>>>>
+From: Robert Evans <evans@yahoo-inc.com>
+Date: Thu, 9 Jun 2011 06:49:19 -0700
+Subject: Re: Automatic line number in reducer output
+
+
+common-user 28590 hadoop-common-user ----->>>>>
+From: Robert Evans <evans@yahoo-inc.com>
+Date: Thu, 9 Jun 2011 06:49:20 -0700
+Subject: Re: DistributedCache
+
+
+common-user 28591 hadoop-common-user ----->>>>>
+From: Robert Evans <evans@yahoo-inc.com>
+Date: Thu, 9 Jun 2011 07:23:11 -0700
+Subject: Re: Linear scalability question
+From: Shantian Purkad <shantian_purkad@yahoo.com>
+Subject: Linear scalability question
+
+
+common-user 28592 hadoop-common-user ----->>>>>
+Date: Thu, 09 Jun 2011 07:59:31 -0700
+From: Mark <static.void.dev@gmail.com>
+Subject: Hardware specs
+
+
+common-user 28593 hadoop-common-user ----->>>>>
+From: "Bible, Landy" <landy-bible@utulsa.edu>
+Date: Thu, 9 Jun 2011 11:35:16 -0500
+Subject: Question about DFS Reserved Space
+
+
+common-user 28594 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Thu, 9 Jun 2011 22:43:32 +0530
+Subject: Re: Question about DFS Reserved Space
+
+
+common-user 28595 hadoop-common-user ----->>>>>
+From: Koji Noguchi <knoguchi@yahoo-inc.com>
+Date: Thu, 9 Jun 2011 10:24:39 -0700
+Subject: Re: Question about DFS Reserved Space
+
+
+common-user 28596 hadoop-common-user ----->>>>>
+Date: Thu, 09 Jun 2011 12:57:37 -0500
+From: Shi Yu <shiyu@uchicago.edu>
+Subject: Re: Automatic line number in reducer output
+
+
+common-user 28597 hadoop-common-user ----->>>>>
+Date: Thu, 09 Jun 2011 16:09:45 -0500
+From: Shi Yu <shiyu@uchicago.edu>
+Subject: one-to-many Map Side Join without reducer
+
+
+common-user 28598 hadoop-common-user ----->>>>>
+From: Madhu Ramanna <madhu@buysight.com>
+Date: Thu, 9 Jun 2011 14:52:51 -0700
+Subject: Re: MultipleTextOutputFormat - temp dir does not exist error
+
+
+common-user 28599 hadoop-common-user ----->>>>>
+Date: Thu, 9 Jun 2011 18:01:20 -0400
+Subject: Re: Hardware specs
+From: Joey Echeverria <joey@cloudera.com>
+
+
+common-user 28600 hadoop-common-user ----->>>>>
+Date: Thu, 9 Jun 2011 15:52:53 -0700
+Subject: org.apache.hadoop.mapred.Utils can not be resolved
+From: Mark question <markq2011@gmail.com>
+
+
+common-user 28601 hadoop-common-user ----->>>>>
+Date: Thu, 9 Jun 2011 19:50:07 -0700
+Subject: DiskUsage class DU Error
+From: Mark question <markq2011@gmail.com>
+
+
+common-user 28602 hadoop-common-user ----->>>>>
+From: Kumar Kandasami <kumaravel.kandasami@gmail.com>
+Date: Thu, 9 Jun 2011 22:34:00 -0500
+Subject: Configuring Multiple Data Nodes on Pseudo-distributed mode ?
+
+
+common-user 28603 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Fri, 10 Jun 2011 10:50:52 +0530
+Subject: Re: Configuring Multiple Data Nodes on Pseudo-distributed mode ?
+
+
+common-user 28604 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Fri, 10 Jun 2011 10:53:22 +0530
+Subject: Re: org.apache.hadoop.mapred.Utils can not be resolved
+
+
+common-user 28605 hadoop-common-user ----->>>>>
+Date: Thu, 9 Jun 2011 22:38:13 -0700 (PDT)
+From: Raja Nagendra Kumar <Nagendra.Raja@tejasoft.com>
+Subject: Hadoop on windows with bat and ant scripts
+
+
+common-user 28606 hadoop-common-user ----->>>>>
+From: stream <stream1984@gmail.com>
+Subject: about eclipse-plugin
+Date: Fri, 10 Jun 2011 15:01:43 +0800
+
+
+common-user 28607 hadoop-common-user ----->>>>>
+Date: Fri, 10 Jun 2011 00:23:05 -0700
+Subject: Re: org.apache.hadoop.mapred.Utils can not be resolved
+From: Mark question <markq2011@gmail.com>
+
+
+common-user 28608 hadoop-common-user ----->>>>>
+Date: Fri, 10 Jun 2011 13:41:40 +0530
+Subject: Re: about eclipse-plugin
+From: praveenesh kumar <praveenesh@gmail.com>
+
+
+common-user 28609 hadoop-common-user ----->>>>>
+Date: Fri, 10 Jun 2011 10:41:43 +0100
+From: Steve Loughran <stevel@apache.org>
+Subject: Re: Hardware specs
+
+
+common-user 28610 hadoop-common-user ----->>>>>
+Date: Fri, 10 Jun 2011 19:32:20 +0800
+From: "siuon@ugcv.com" <siuon@ugcv.com>
+Subject: NameNode heapsize
+
+
+common-user 28611 hadoop-common-user ----->>>>>
+Date: Fri, 10 Jun 2011 14:47:26 +0300
+From: George Kousiouris <gkousiou@mail.ntua.gr>
+Subject: frequency with which hadoop or hdfs daemons run and refresh information
+
+
+common-user 28612 hadoop-common-user ----->>>>>
+From: James Seigel <james@tynt.com>
+Date: Fri, 10 Jun 2011 06:16:49 -0600
+Subject: Re: NameNode heapsize
+
+
+common-user 28613 hadoop-common-user ----->>>>>
+Subject: Re: NameNode heapsize
+From: Brian Bockelman <bbockelm@cse.unl.edu>
+Date: Fri, 10 Jun 2011 07:22:35 -0500
+
+
+common-user 28614 hadoop-common-user ----->>>>>
+From: "Habermaas, William" <William.Habermaas@fatwire.com>
+Date: Fri, 10 Jun 2011 06:16:02 -0700
+Subject: RE: Hadoop on windows with bat and ant scripts
+
+
+common-user 28615 hadoop-common-user ----->>>>>
+Date: Fri, 10 Jun 2011 10:00:15 -0400
+Subject: Re: NameNode heapsize
+From: Edward Capriolo <edlinuxguru@gmail.com>
+
+
+common-user 28616 hadoop-common-user ----->>>>>
+From: "Bible, Landy" <landy-bible@utulsa.edu>
+Date: Fri, 10 Jun 2011 09:23:39 -0500
+Subject: RE: Hadoop on windows with bat and ant scripts
+From: Raja Nagendra Kumar [mailto:Nagendra.Raja@tejasoft.com]=20
+Subject: Hadoop on windows with bat and ant scripts
+
+
+common-user 28617 hadoop-common-user ----->>>>>
+From: Robert Evans <evans@yahoo-inc.com>
+Date: Fri, 10 Jun 2011 07:31:29 -0700
+Subject: Re: Automatic line number in reducer output
+
+
+common-user 28618 hadoop-common-user ----->>>>>
+From: "Bible, Landy" <landy-bible@utulsa.edu>
+Date: Fri, 10 Jun 2011 09:34:22 -0500
+Subject: RE: Question about DFS Reserved Space
+From: Harsh J [mailto:harsh@cloudera.com]=20
+Subject: Re: Question about DFS Reserved Space
+
+
+common-user 28619 hadoop-common-user ----->>>>>
+Date: Sat, 11 Jun 2011 00:31:38 +0800
+From: "siuon@ugcv.com" <siuon@ugcv.com>
+Subject: Re: NameNode heapsize
+
+
+common-user 28620 hadoop-common-user ----->>>>>
+Date: Fri, 10 Jun 2011 11:46:51 -0500
+From: Shi Yu <shiyu@uchicago.edu>
+Subject: Re: Automatic line number in reducer output
+
+
+common-user 28621 hadoop-common-user ----->>>>>
+From: Matthew Foley <mattf@yahoo-inc.com>
+Date: Fri, 10 Jun 2011 11:40:08 -0700
+Subject: Re: Hadoop on windows with bat and ant scripts
+From: Raja Nagendra Kumar [mailto:Nagendra.Raja@tejasoft.com]=20
+Subject: Hadoop on windows with bat and ant scripts
+
+
+common-user 28622 hadoop-common-user ----->>>>>
+Date: Fri, 10 Jun 2011 17:56:35 -0500
+From: Shi Yu <shiyu@uchicago.edu>
+Subject: Parallel map side join
+
+
+common-user 28623 hadoop-common-user ----->>>>>
+From: Madhu Ramanna <madhu@buysight.com>
+Date: Fri, 10 Jun 2011 16:24:09 -0700
+Subject: compress files in hadoop
+
+
+common-user 28624 hadoop-common-user ----->>>>>
+From: Kumar Kandasami <kumaravel.kandasami@gmail.com>
+Date: Fri, 10 Jun 2011 19:04:02 -0500
+Subject: Re: Configuring Multiple Data Nodes on Pseudo-distributed mode ?
+
+
+common-user 28625 hadoop-common-user ----->>>>>
+Date: Fri, 10 Jun 2011 22:26:17 -0400
+Subject: Re: compress files in hadoop
+From: Dhruv <dhruv21@gmail.com>
+
+
+common-user 28626 hadoop-common-user ----->>>>>
+Date: Fri, 10 Jun 2011 20:18:20 -0700 (PDT)
+From: relesabe <jmiller@llnw.com>
+Subject: java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+
+
+common-user 28627 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Sat, 11 Jun 2011 11:18:01 +0530
+Subject: Re: Configuring Multiple Data Nodes on Pseudo-distributed mode ?
+
+
+common-user 28628 hadoop-common-user ----->>>>>
+From: Kumar Kandasami <kumaravel.kandasami@gmail.com>
+Date: Sat, 11 Jun 2011 01:44:45 -0500
+Subject: Re: Configuring Multiple Data Nodes on Pseudo-distributed mode ?
+
+
+common-user 28629 hadoop-common-user ----->>>>>
+Date: Sat, 11 Jun 2011 06:20:08 -0700 (PDT)
+From: J3VS <jonathan.viccary@googlemail.com>
+Subject: JAVA_HOME is not set
+
+
+common-user 28630 hadoop-common-user ----->>>>>
+From: Madhu Ramanna <madhu@buysight.com>
+Date: Sat, 11 Jun 2011 07:34:13 -0700
+Subject: Re: compress files in hadoop
+
+
+common-user 28632 hadoop-common-user ----->>>>>
+From: Deependra Ariyadewa <deependra@gmail.com>
+Date: Sat, 11 Jun 2011 21:11:00 +0530
+Subject: Re: JAVA_HOME is not set
+
+
+common-user 28631 hadoop-common-user ----->>>>>
+From: Deependra Ariyadewa <deependra@gmail.com>
+Date: Sat, 11 Jun 2011 21:11:00 +0530
+Subject: Re: JAVA_HOME is not set
+
+
+common-user 28633 hadoop-common-user ----->>>>>
+From: Madhu Ramanna <madhu@buysight.com>
+Date: Sat, 11 Jun 2011 13:03:14 -0700
+Subject: Re: JAVA_HOME is not set
+
+
+common-user 28634 hadoop-common-user ----->>>>>
+Date: Sat, 11 Jun 2011 14:55:56 -0700
+Subject: Hadoop Runner
+From: Mark question <markq2011@gmail.com>
+
+
+common-user 28635 hadoop-common-user ----->>>>>
+Date: Sat, 11 Jun 2011 19:01:20 -0700 (PDT)
+From: Raja Nagendra Kumar <Nagendra.Raja@tejasoft.com>
+Subject: Hadoop on windows with bat and ant scripts
+
+
+common-user 28636 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Sun, 12 Jun 2011 10:12:17 +0530
+Subject: Re: Hadoop Runner
+
+
+common-user 28637 hadoop-common-user ----->>>>>
+Date: Sun, 12 Jun 2011 12:02:40 +0200
+From: Eric Charles <eric.charles@u-mangate.com>
+Subject: Re: Release or Snapshot from Maven Repositories?
+
+
+common-user 28638 hadoop-common-user ----->>>>>
+Date: Sun, 12 Jun 2011 10:29:25 -0400
+Subject: Help - can't start namenode after disk full error
+From: Ryan LeCompte <lecompte@gmail.com>
+
+
+common-user 28639 hadoop-common-user ----->>>>>
+Subject: RE: Help - can't start namenode after disk full error
+Date: Sun, 12 Jun 2011 10:42:52 -0400
+From: "Zhong, Andy" <Sheng.Zhong@searshc.com>
+From: Ryan LeCompte [mailto:lecompte@gmail.com]=20
+Subject: Help - can't start namenode after disk full error
+
+
+common-user 28640 hadoop-common-user ----->>>>>
+Subject: RE: Help - can't start namenode after disk full error
+Date: Sun, 12 Jun 2011 10:47:29 -0400
+From: "Zhong, Andy" <Sheng.Zhong@searshc.com>
+From: Zhong, Andy [mailto:Sheng.Zhong@searshc.com]=20
+Subject: RE: Help - can't start namenode after disk full error
+From: Ryan LeCompte [mailto:lecompte@gmail.com]
+Subject: Help - can't start namenode after disk full error
+
+
+common-user 28641 hadoop-common-user ----->>>>>
+Date: Sun, 12 Jun 2011 10:59:08 -0400
+Subject: Re: Help - can't start namenode after disk full error
+From: Ryan LeCompte <lecompte@gmail.com>
+
+
+common-user 28642 hadoop-common-user ----->>>>>
+Subject: Re: Help - can't start namenode after disk full error
+Date: Sun, 12 Jun 2011 12:09:57 -0400
+From: "Zhong, Sheng" <Sheng.Zhong@searshc.com>
+From: Ryan LeCompte [mailto:lecompte@gmail.com]
+Subject: Re: Help - can't start namenode after disk full error
+
+
+common-user 28643 hadoop-common-user ----->>>>>
+From: Shi Yu <shiyu@uchicago.edu>
+Subject: Configure Map Side join for multiple mappers
+Date: Sun, 12 Jun 2011 12:56:56 -0500 (CDT)
+
+
+common-user 28644 hadoop-common-user ----->>>>>
+Date: Sun, 12 Jun 2011 17:25:44 -0700 (PDT)
+From: Mark Hedges <hedges@formdata.biz>
+Subject: nomenclature
+
+
+common-user 28645 hadoop-common-user ----->>>>>
+Date: Mon, 13 Jun 2011 08:28:22 +0800
+Subject: Re: nomenclature
+From: Nan Zhu <zhunansjtu@gmail.com>
+
+
+common-user 28646 hadoop-common-user ----->>>>>
+Date: Sun, 12 Jun 2011 18:06:38 -0700 (PDT)
+From: Mark Hedges <hedges@formdata.biz>
+Subject: Re: nomenclature
+
+
+common-user 28647 hadoop-common-user ----->>>>>
+Date: Mon, 13 Jun 2011 14:55:51 +0800 (CST)
+From: ltomuno <ltomuno@163.com>
+Subject: a file can be used as a queue?
+
+
+common-user 28648 hadoop-common-user ----->>>>>
+Date: Mon, 13 Jun 2011 09:19:51 +0200
+From: Eric Charles <eric.charles@u-mangate.com>
+Subject: Common project tests in eclipe
+
+
+common-user 28649 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Mon, 13 Jun 2011 15:27:56 +0530
+Subject: Re: Common project tests in eclipe
+
+
+common-user 28650 hadoop-common-user ----->>>>>
+Subject: Re: a file can be used as a queue?
+From: Joey Echeverria <joey@cloudera.com>
+Date: Mon, 13 Jun 2011 07:23:59 -0400
+
+
+common-user 28651 hadoop-common-user ----->>>>>
+Date: Mon, 13 Jun 2011 20:26:06 +0800
+Subject: Is there anyway I could use ClusterMapReduceTestCase with the 0.20
+From: Stanley Xu <wenhao.xu@gmail.com>
+
+
+common-user 28652 hadoop-common-user ----->>>>>
+Date: Mon, 13 Jun 2011 13:50:25 +0100
+From: Steve Loughran <stevel@apache.org>
+Subject: Re: Hadoop on windows with bat and ant scripts
+
+
+common-user 28653 hadoop-common-user ----->>>>>
+Date: Mon, 13 Jun 2011 13:52:23 +0100
+From: Steve Loughran <stevel@apache.org>
+Subject: Re: NameNode heapsize
+
+
+common-user 28654 hadoop-common-user ----->>>>>
+Date: Mon, 13 Jun 2011 13:54:37 +0100
+From: Steve Loughran <stevel@apache.org>
+Subject: Re: Hadoop on windows with bat and ant scripts
+
+
+common-user 28655 hadoop-common-user ----->>>>>
+From: "Bible, Landy" <landy-bible@utulsa.edu>
+Date: Mon, 13 Jun 2011 09:27:18 -0500
+Subject: RE: Hadoop on windows with bat and ant scripts
+
+
+common-user 28656 hadoop-common-user ----->>>>>
+Date: Mon, 13 Jun 2011 22:33:05 +0800 (CST)
+From: ltomuno <ltomuno@163.com>
+Subject: Re:Re: a file can be used as a queue?
+
+
+common-user 28657 hadoop-common-user ----->>>>>
+Date: Mon, 13 Jun 2011 22:33:24 +0800 (CST)
+From: ltomuno <ltomuno@163.com>
+Subject: Re:Re: a file can be used as a queue?
+
+
+common-user 28658 hadoop-common-user ----->>>>>
+Date: Mon, 13 Jun 2011 07:48:19 -0700 (PDT)
+From: J3VS <jonathan.viccary@googlemail.com>
+Subject: JAVA_HOME is not set
+
+
+common-user 28659 hadoop-common-user ----->>>>>
+From: John George <johngeo@yahoo-inc.com>
+Date: Mon, 13 Jun 2011 07:52:25 -0700
+Subject: Re: a file can be used as a queue?
+
+
+common-user 28660 hadoop-common-user ----->>>>>
+Date: Mon, 13 Jun 2011 21:19:55 +0530
+Subject: Global array in OutputFormat
+From: Matthew John <tmatthewjohn1988@gmail.com>
+
+
+common-user 28661 hadoop-common-user ----->>>>>
+Date: Mon, 13 Jun 2011 11:45:02 +0530
+Subject: Regarding reading image files in hadoop
+From: Nitesh Kaushik <kaushik.nitesh@gmail.com>
+
+
+common-user 28662 hadoop-common-user ----->>>>>
+Subject: Re: NameNode heapsize
+From: Allen Wittenauer <aw@apache.org>
+Date: Mon, 13 Jun 2011 09:13:54 -0700
+
+
+common-user 28664 hadoop-common-user ----->>>>>
+Subject: Re: JAVA_HOME is not set
+From: Allen Wittenauer <aw@apache.org>
+Date: Mon, 13 Jun 2011 09:15:38 -0700
+
+
+common-user 28663 hadoop-common-user ----->>>>>
+Subject: Re: JAVA_HOME is not set
+From: Allen Wittenauer <aw@apache.org>
+Date: Mon, 13 Jun 2011 09:15:38 -0700
+
+
+common-user 28665 hadoop-common-user ----->>>>>
+Subject: Re: Regarding reading image files in hadoop
+From: Allen Wittenauer <aw@apache.org>
+Date: Mon, 13 Jun 2011 09:18:00 -0700
+
+
+common-user 28666 hadoop-common-user ----->>>>>
+Date: Mon, 13 Jun 2011 23:37:57 +0530 (IST)
+From: jagaran das <jagaran_das@yahoo.co.in>
+Subject: Append to Existing File
+
+
+common-user 28667 hadoop-common-user ----->>>>>
+Date: Tue, 14 Jun 2011 00:19:37 +0530 (IST)
+From: jagaran das <jagaran_das@yahoo.co.in>
+Subject: Re: Append to Existing File
+
+
+common-user 28668 hadoop-common-user ----->>>>>
+Date: Tue, 14 Jun 2011 11:59:11 +0100
+From: Steve Loughran <stevel@apache.org>
+Subject: Re: Hadoop on windows with bat and ant scripts
+
+
+common-user 28669 hadoop-common-user ----->>>>>
+Date: Tue, 14 Jun 2011 04:27:23 -0700 (PDT)
+From: boedi <aditya.budi@gmail.com>
+Subject: accidentally delete the namenode
+
+
+common-user 28670 hadoop-common-user ----->>>>>
+Date: Tue, 14 Jun 2011 06:36:50 -0700 (PDT)
+From: somnath <somburn@gmail.com>
+Subject: How to access the Reducer  id in partitioner
+
+
+common-user 28671 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Tue, 14 Jun 2011 22:57:49 +0530
+Subject: Re: How to access the Reducer id in partitioner
+
+
+common-user 28672 hadoop-common-user ----->>>>>
+Date: Tue, 14 Jun 2011 10:35:26 -0700 (PDT)
+From: somnath <somburn@gmail.com>
+Subject: Re: How to access the Reducer id in partitioner
+
+
+common-user 28673 hadoop-common-user ----->>>>>
+Subject: Handling external jars in EMR
+From: Mehmet Tepedelenlioglu <mehmetsino@gmail.com>
+Date: Tue, 14 Jun 2011 11:50:50 -0700
+
+
+common-user 28674 hadoop-common-user ----->>>>>
+Date: Tue, 14 Jun 2011 23:01:07 +0200
+Subject: Upgrading namenode/secondary node hardware
+From: MilleBii <millebii@gmail.com>
+
+
+common-user 28675 hadoop-common-user ----->>>>>
+Date: Tue, 14 Jun 2011 14:38:40 -0700
+Subject: Error starting namenode
+From: Subrahmanya Harve <subrahmanyaharve@gmail.com>
+
+
+common-user 28676 hadoop-common-user ----->>>>>
+Date: Tue, 14 Jun 2011 20:31:30 -0700 (PDT)
+From: Ayon Sinha <ayonsinha@yahoo.com>
+Subject: problem with streaming and libjars
+
+
+common-user 28677 hadoop-common-user ----->>>>>
+From: Raja Nagendra Kumar <nagendra.raja@tejasoft.com>
+Subject: Re: Problem debugging MapReduce job under Windows
+Date: Wed, 15 Jun 2011 06:53:12 +0000 (UTC)
+
+
+common-user 28678 hadoop-common-user ----->>>>>
+Date: Wed, 15 Jun 2011 11:18:54 +0100
+From: Steve Loughran <stevel@apache.org>
+Subject: Re: Upgrading namenode/secondary node hardware
+
+
+common-user 28679 hadoop-common-user ----->>>>>
+Date: Wed, 15 Jun 2011 16:54:33 +0200
+Subject: Re: Upgrading namenode/secondary node hardware
+From: MilleBii <millebii@gmail.com>
+
+
+common-user 28680 hadoop-common-user ----->>>>>
+Date: Wed, 15 Jun 2011 16:55:33 +0200
+Subject: Re: Upgrading namenode/secondary node hardware
+From: MilleBii <millebii@gmail.com>
+
+
+common-user 28681 hadoop-common-user ----->>>>>
+From: rutesh <rutesh.chavda@gmail.com>
+Date: Wed, 15 Jun 2011 22:23:18 +0530
+Subject: Datanode not created on hadoop-0.20.203.0
+
+
+common-user 28682 hadoop-common-user ----->>>>>
+Date: Wed, 15 Jun 2011 13:00:49 -0400
+Subject: Re: Datanode not created on hadoop-0.20.203.0
+From: Joey Echeverria <joey@cloudera.com>
+
+
+common-user 28683 hadoop-common-user ----->>>>>
+Subject: RE: Datanode not created on hadoop-0.20.203.0
+Date: Wed, 15 Jun 2011 12:02:37 -0500
+From: <Jeff.Schmitz@shell.com>
+From: Joey Echeverria [mailto:joey@cloudera.com]=20
+Subject: Re: Datanode not created on hadoop-0.20.203.0
+
+
+common-user 28684 hadoop-common-user ----->>>>>
+Date: Wed, 15 Jun 2011 10:22:59 -0700 (PDT)
+From: FujizawaMiyuki <sophiesongge@gmail.com>
+Subject: Problems with Rumen in Hadoop-0.21.0
+
+
+common-user 28685 hadoop-common-user ----->>>>>
+Date: Wed, 15 Jun 2011 10:40:41 -0700 (PDT)
+From: FujizawaMiyuki <sophiesongge@gmail.com>
+Subject: Re: Is Rumen broken in Hadoop 0.21.0?
+
+
+common-user 28686 hadoop-common-user ----->>>>>
+From: Aaron Kimball <akimball83@gmail.com>
+Date: Wed, 15 Jun 2011 11:53:43 -0700
+Subject: Meetup Announcement: July 2011 SF HUG (7/13/2011)
+
+
+common-user 28687 hadoop-common-user ----->>>>>
+From: Ian Upright <ian@upright.net>
+Subject: large memory tasks
+Date: Wed, 15 Jun 2011 13:41:46 -0700
+
+
+common-user 28688 hadoop-common-user ----->>>>>
+Date: Wed, 15 Jun 2011 14:21:45 -0700 (PDT)
+From: hiroprotagonist <axue@lumoslabs.com>
+Subject: cascalog and  amazon emr
+
+
+common-user 28689 hadoop-common-user ----->>>>>
+From: "GOEKE, MATTHEW (AG/1000)" <matthew.goeke@monsanto.com>
+Subject: RE: large memory tasks
+Date: Wed, 15 Jun 2011 22:05:31 +0000
+From: Ian Upright [mailto:ian@upright.net]=20
+Subject: large memory tasks
+
+
+common-user 28690 hadoop-common-user ----->>>>>
+From: Ian Upright <ian@upright.net>
+Subject: Re: large memory tasks
+Date: Wed, 15 Jun 2011 15:26:04 -0700
+
+
+common-user 28691 hadoop-common-user ----->>>>>
+Date: Wed, 15 Jun 2011 17:39:38 -0500
+From: Shi Yu <shiyu@uchicago.edu>
+Subject: Re: large memory tasks
+
+
+common-user 28692 hadoop-common-user ----->>>>>
+From: Ian Upright <ian@upright.net>
+Subject: Re: large memory tasks
+Date: Wed, 15 Jun 2011 15:56:28 -0700
+
+
+common-user 28693 hadoop-common-user ----->>>>>
+Date: Wed, 15 Jun 2011 18:36:22 -0500
+From: Shi Yu <shiyu@uchicago.edu>
+Subject: Re: large memory tasks
+
+
+common-user 28694 hadoop-common-user ----->>>>>
+From: Drew Gross <drew.a.gross@gmail.com>
+Date: Thu, 16 Jun 2011 00:53:06 -0400
+Subject: ClassNotFoundException while running quick start guide on Windows.
+
+
+common-user 28695 hadoop-common-user ----->>>>>
+From: rutesh <rutesh.chavda@gmail.com>
+Date: Thu, 16 Jun 2011 11:16:45 +0530
+Subject: Re: Datanode not created on hadoop-0.20.203.0
+
+
+common-user 28696 hadoop-common-user ----->>>>>
+Date: Wed, 15 Jun 2011 22:52:44 -0700
+Subject: Re: large memory tasks
+From: "M. C. Srivas" <mcsrivas@gmail.com>
+
+
+common-user 28697 hadoop-common-user ----->>>>>
+Date: Wed, 15 Jun 2011 23:34:40 -0700
+Subject: Re: cascalog and amazon emr
+From: Nathan Marz <nathan.marz@gmail.com>
+
+
+common-user 28698 hadoop-common-user ----->>>>>
+Date: Wed, 15 Jun 2011 23:34:40 -0700
+Subject: Re: cascalog and amazon emr
+From: Nathan Marz <nathan.marz@gmail.com>
+
+
+common-user 28699 hadoop-common-user ----->>>>>
+Date: Thu, 16 Jun 2011 02:57:46 -0400
+Subject: automatic monitoring the utilization of slaves
+From: bikash sharma <sharmabiks.07@gmail.com>
+
+
+common-user 28700 hadoop-common-user ----->>>>>
+Date: Thu, 16 Jun 2011 12:49:49 +0100
+From: Steve Loughran <stevel@apache.org>
+Subject: Re: Upgrading namenode/secondary node hardware
+
+
+common-user 28701 hadoop-common-user ----->>>>>
+Date: Thu, 16 Jun 2011 09:06:54 -0400
+Subject: Re: problem with streaming and libjars
+From: Joey Echeverria <joey@cloudera.com>
+
+
+common-user 28702 hadoop-common-user ----->>>>>
+Date: Thu, 16 Jun 2011 15:19:47 +0200
+Subject: Re: Upgrading namenode/secondary node hardware
+From: MilleBii <millebii@gmail.com>
+
+
+common-user 28703 hadoop-common-user ----->>>>>
+Date: Thu, 16 Jun 2011 09:59:01 -0400
+Subject: Re: Datanode not created on hadoop-0.20.203.0
+From: Joey Echeverria <joey@cloudera.com>
+
+
+common-user 28704 hadoop-common-user ----->>>>>
+Date: Thu, 16 Jun 2011 09:11:09 -0700 (PDT)
+From: Ayon Sinha <ayonsinha@yahoo.com>
+Subject: Re: problem with streaming and libjars
+
+
+common-user 28705 hadoop-common-user ----->>>>>
+From: Ian Upright <ian@upright.net>
+Subject: Re: large memory tasks
+Date: Thu, 16 Jun 2011 10:19:24 -0700
+
+
+common-user 28706 hadoop-common-user ----->>>>>
+Date: Thu, 16 Jun 2011 12:46:15 -0500
+From: Shi Yu <shiyu@uchicago.edu>
+Subject: Re: large memory tasks
+
+
+common-user 28707 hadoop-common-user ----->>>>>
+Subject: Heap Size is 27.25 MB/888.94 MB
+Date: Thu, 16 Jun 2011 14:37:30 -0500
+From: <Jeff.Schmitz@shell.com>
+
+
+common-user 28708 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Fri, 17 Jun 2011 01:18:30 +0530
+Subject: Re: Heap Size is 27.25 MB/888.94 MB
+
+
+common-user 28709 hadoop-common-user ----->>>>>
+Date: Fri, 17 Jun 2011 06:03:51 +0530 (IST)
+From: jagaran das <jagaran_das@yahoo.co.in>
+Subject: HDFS File Appending
+
+
+common-user 28710 hadoop-common-user ----->>>>>
+From: Ian Upright <ian@upright.net>
+Subject: Re: large memory tasks
+Date: Thu, 16 Jun 2011 18:04:08 -0700
+
+
+common-user 28711 hadoop-common-user ----->>>>>
+Date: Fri, 17 Jun 2011 09:26:45 +0800
+Subject: Re: HDFS File Appending
+From: Xiaobo Gu <guxiaobo1982@gmail.com>
+
+
+common-user 28712 hadoop-common-user ----->>>>>
+From: Shi Yu <shiyu@uchicago.edu>
+Subject: Fwd: Re: large memory tasks
+Date: Thu, 16 Jun 2011 20:51:05 -0500 (CDT)
+
+
+common-user 28713 hadoop-common-user ----->>>>>
+Date: Fri, 17 Jun 2011 07:59:34 +0530 (IST)
+From: jagaran das <jagaran_das@yahoo.co.in>
+Subject: Re: HDFS File Appending URGENT
+
+
+common-user 28714 hadoop-common-user ----->>>>>
+Date: Fri, 17 Jun 2011 11:01:14 +0800
+Subject: Re: HDFS File Appending URGENT
+From: Xiaobo Gu <guxiaobo1982@gmail.com>
+
+
+common-user 28715 hadoop-common-user ----->>>>>
+Date: Thu, 16 Jun 2011 20:23:11 -0700
+Subject: One node with Rack-local mappers ?!!!
+From: Mark question <markq2011@gmail.com>
+
+
+common-user 28716 hadoop-common-user ----->>>>>
+From: rutesh <rutesh.chavda@gmail.com>
+Date: Fri, 17 Jun 2011 10:12:47 +0530
+Subject: Re: Datanode not created on hadoop-0.20.203.0
+
+
+common-user 28717 hadoop-common-user ----->>>>>
+Date: Fri, 17 Jun 2011 10:21:51 +0530 (IST)
+From: jagaran das <jagaran_das@yahoo.co.in>
+Subject: Re: HDFS File Appending URGENT
+
+
+common-user 28718 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Fri, 17 Jun 2011 10:48:31 +0530
+Subject: Re: Datanode not created on hadoop-0.20.203.0
+
+
+common-user 28719 hadoop-common-user ----->>>>>
+From: rutesh <rutesh.chavda@gmail.com>
+Date: Fri, 17 Jun 2011 10:52:57 +0530
+Subject: Re: Datanode not created on hadoop-0.20.203.0
+
+
+common-user 28720 hadoop-common-user ----->>>>>
+Date: Fri, 17 Jun 2011 10:30:33 +0100
+From: Steve Loughran <stevel@apache.org>
+Subject: Re: Upgrading namenode/secondary node hardware
+
+
+common-user 28721 hadoop-common-user ----->>>>>
+Date: Fri, 17 Jun 2011 13:45:41 +0300
+Subject: Name node problems
+From: =?KOI8-U?B?96bUwcymyiD0yc3eydvJzg==?= <tivv00@gmail.com>
+
+
+common-user 28722 hadoop-common-user ----->>>>>
+Date: Fri, 17 Jun 2011 15:48:32 +0200
+Subject: Re: Upgrading namenode/secondary node hardware
+From: MilleBii <millebii@gmail.com>
+
+
+common-user 28723 hadoop-common-user ----->>>>>
+Date: Fri, 17 Jun 2011 17:42:31 +0300
+From: Vitalii Tymchyshyn <tivv00@gmail.com>
+Subject: Data node check dir storm
+
+
+common-user 28724 hadoop-common-user ----->>>>>
+Date: Fri, 17 Jun 2011 23:45:04 +0530 (IST)
+From: jagaran das <jagaran_das@yahoo.co.in>
+Subject: Fw: HDFS File Appending URGENT
+
+
+common-user 28725 hadoop-common-user ----->>>>>
+Date: Fri, 17 Jun 2011 11:45:22 -0700 (PDT)
+From: "Tsz Wo \(Nicholas\), Sze" <s29752-hadoopuser@yahoo.com>
+Subject: Re: HDFS File Appending URGENT
+From: jagaran das <jagaran_das@yahoo.co.in>
+Subject: Fw: HDFS File Appending URGENT
+From: jagaran das <jagaran_das@yahoo.co.in>
+Subject: Re: HDFS File Appending URGENT
+From: Xiaobo Gu <guxiaobo1982@gmail.com>
+Subject: Re: HDFS File Appending URGENT
+
+
+common-user 28726 hadoop-common-user ----->>>>>
+Date: Sat, 18 Jun 2011 00:34:19 +0530 (IST)
+From: jagaran das <jagaran_das@yahoo.co.in>
+Subject: Re: HDFS File Appending URGENT
+
+
+common-user 28727 hadoop-common-user ----->>>>>
+Date: Fri, 17 Jun 2011 03:42:44 -0700 (PDT)
+From: punisher <punisher80@hotmail.it>
+Subject: Starting an HDFS node (standalone) programmatically by API
+
+
+common-user 28728 hadoop-common-user ----->>>>>
+Date: Fri, 17 Jun 2011 17:58:16 -0500
+From: Shi Yu <shiyu@uchicago.edu>
+Subject: Relationship between mapred.child.java.opts,  mapred.reduce.child.java.opts,
+
+
+common-user 28729 hadoop-common-user ----->>>>>
+From: Ken Williams <zoo9000@hotmail.com>
+Subject: OutOfMemoryError: GC overhead limit exceeded
+Date: Sat, 18 Jun 2011 16:55:05 +0000
+
+
+common-user 28730 hadoop-common-user ----->>>>>
+From: Mapred Learn <mapred.learn@gmail.com>
+Subject: Re: OutOfMemoryError: GC overhead limit exceeded
+Date: Sat, 18 Jun 2011 11:28:08 -0700
+
+
+common-user 28731 hadoop-common-user ----->>>>>
+Date: Sat, 18 Jun 2011 10:29:55 -0700 (PDT)
+From: rsriramtce <rsriramtce@gmail.com>
+Subject: lucene with hbase.
+
+
+common-user 28732 hadoop-common-user ----->>>>>
+Date: Sat, 18 Jun 2011 17:31:37 -0500
+Subject: MAX_MAPS_AT_ONCE in ShuffleScheduler class
+From: Shrinivas Joshi <jshrinivas@gmail.com>
+
+
+common-user 28733 hadoop-common-user ----->>>>>
+Date: Sat, 18 Jun 2011 21:33:17 -0700 (PDT)
+From: Otis Gospodnetic <otis_gospodnetic@yahoo.com>
+Subject: Re: lucene with hbase.
+
+
+common-user 28734 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Sun, 19 Jun 2011 12:54:58 +0530
+Subject: Re: MAX_MAPS_AT_ONCE in ShuffleScheduler class
+
+
+common-user 28735 hadoop-common-user ----->>>>>
+Date: Mon, 20 Jun 2011 00:49:34 +0900
+Subject: Custom TableInputFormat not working correctly
+From: edward choi <mp2893@gmail.com>
+
+
+common-user 28736 hadoop-common-user ----->>>>>
+Subject: Re: Upgrading namenode/secondary node hardware
+From: Allen Wittenauer <aw@apache.org>
+Date: Sun, 19 Jun 2011 23:25:18 -0700
+
+
+common-user 28737 hadoop-common-user ----->>>>>
+Date: Mon, 20 Jun 2011 16:08:28 +0800
+Subject: Re: HDFS File Appending URGENT
+From: =?UTF-8?B?5r2Y6aOe?= <cnweike@gmail.com>
+
+
+common-user 28738 hadoop-common-user ----->>>>>
+From: Andy XUE <andyxueyuan@gmail.com>
+Date: Mon, 20 Jun 2011 18:20:42 +1000
+Subject: HDFS Configured Capacity differs from Hard Disk volume
+
+
+common-user 28739 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Mon, 20 Jun 2011 14:36:33 +0530
+Subject: Re: HDFS Configured Capacity differs from Hard Disk volume
+
+
+common-user 28740 hadoop-common-user ----->>>>>
+Date: Mon, 20 Jun 2011 04:12:15 -0700 (PDT)
+From: Raja Nagendra Kumar <Nagendra.Raja@tejasoft.com>
+Subject: wordcount example error
+
+
+common-user 28741 hadoop-common-user ----->>>>>
+Date: Mon, 20 Jun 2011 04:25:07 -0700 (PDT)
+From: Marc Sturlese <marc.sturlese@gmail.com>
+Subject: Good practices using a jar with hadoop jobs
+
+
+common-user 28742 hadoop-common-user ----->>>>>
+From: Kumar Kandasami <kumaravel.kandasami@gmail.com>
+Date: Mon, 20 Jun 2011 06:37:23 -0500
+Subject: Re: wordcount example error
+
+
+common-user 28743 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Mon, 20 Jun 2011 17:23:47 +0530
+Subject: Re: wordcount example error
+
+
+common-user 28744 hadoop-common-user ----->>>>>
+Date: Mon, 20 Jun 2011 17:46:29 +0530
+From: Adarsh Sharma <adarsh.sharma@orkash.com>
+Subject: Re: wordcount example error
+
+
+common-user 28745 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Mon, 20 Jun 2011 17:51:04 +0530
+Subject: Re: wordcount example error
+
+
+common-user 28746 hadoop-common-user ----->>>>>
+Date: Mon, 20 Jun 2011 15:24:03 +0200
+From: Dieter Plaetinck <dieter.plaetinck@intec.ugent.be>
+Subject: executing dfs copyFromLocal, rm, ... synchronously? i.e. wait until
+
+
+common-user 28747 hadoop-common-user ----->>>>>
+Date: Mon, 20 Jun 2011 06:35:14 -0700 (PDT)
+From: Marc Sturlese <marc.sturlese@gmail.com>
+Subject: Re: lucene with hbase.
+
+
+common-user 28748 hadoop-common-user ----->>>>>
+Date: Mon, 20 Jun 2011 16:58:00 +0200
+From: Eric Charles <eric.charles@u-mangate.com>
+Subject: Re: Common project tests in eclipe
+
+
+common-user 28749 hadoop-common-user ----->>>>>
+From: Kumar Kandasami <kumaravel.kandasami@gmail.com>
+Date: Mon, 20 Jun 2011 10:42:11 -0500
+Subject: Re: wordcount example error
+
+
+common-user 28750 hadoop-common-user ----->>>>>
+Date: Mon, 20 Jun 2011 09:12:50 -0700 (PDT)
+From: irshad <irshadkt.mec@gmail.com>
+Subject: Specified Datanode does'nt work when submitting a map reduce job to
+
+
+common-user 28751 hadoop-common-user ----->>>>>
+Date: Mon, 20 Jun 2011 19:59:06 +0300
+Subject: Help with adjusting Hadoop configuration files
+From: =?UTF-8?B?15DXkdeZINeV15XXp9eg15nXnw==?= <avivaknin13@gmail.com>
+
+
+common-user 28752 hadoop-common-user ----->>>>>
+Date: Mon, 20 Jun 2011 10:30:27 -0700
+Subject: Re: Custom TableInputFormat not working correctly
+From: Stack <stack@duboce.net>
+
+
+common-user 28753 hadoop-common-user ----->>>>>
+Date: Mon, 20 Jun 2011 05:28:23 -0700 (PDT)
+From: gsvijayraajaa <gsvijayraajaa@gmail.com>
+Subject: Re: lucene with hbase.
+
+
+common-user 28754 hadoop-common-user ----->>>>>
+From: "GOEKE, MATTHEW (AG/1000)" <matthew.goeke@monsanto.com>
+Subject: TestDFSIO failure
+Date: Mon, 20 Jun 2011 20:46:30 +0000
+
+
+common-user 28755 hadoop-common-user ----->>>>>
+Date: Mon, 20 Jun 2011 16:22:02 -0700
+Subject: Setting up a Single Node Hadoop Cluster
+From: Ziyad Mir <ziyadmir@gmail.com>
+
+
+common-user 28756 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 09:10:45 +0900
+Subject: Re: Custom TableInputFormat not working correctly
+From: edward choi <mp2893@gmail.com>
+
+
+common-user 28757 hadoop-common-user ----->>>>>
+From: Andy XUE <andyxueyuan@gmail.com>
+Date: Tue, 21 Jun 2011 10:52:14 +1000
+Subject: Re: HDFS Configured Capacity differs from Hard Disk volume
+
+
+common-user 28758 hadoop-common-user ----->>>>>
+Date: Mon, 20 Jun 2011 21:29:08 -0500
+Subject: Re: MAX_MAPS_AT_ONCE in ShuffleScheduler class
+From: Shrinivas Joshi <jshrinivas@gmail.com>
+
+
+common-user 28759 hadoop-common-user ----->>>>>
+From: Kumar Kandasami <kumaravel.kandasami@gmail.com>
+Date: Mon, 20 Jun 2011 22:36:02 -0500
+Subject: Re: Setting up a Single Node Hadoop Cluster
+
+
+common-user 28760 hadoop-common-user ----->>>>>
+From: "Avi Vaknin" <avivaknin13@gmail.com>
+Subject: Help with adjusting Hadoop configuration files
+Date: Tue, 21 Jun 2011 11:43:53 +0300
+
+
+common-user 28761 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 15:02:59 +0530
+Subject: Re: Help with adjusting Hadoop configuration files
+From: madhu phatak <phatak.dev@gmail.com>
+
+
+common-user 28762 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 15:06:34 +0530
+Subject: Re: Setting up a Single Node Hadoop Cluster
+From: madhu phatak <phatak.dev@gmail.com>
+
+
+common-user 28763 hadoop-common-user ----->>>>>
+From: "Avi Vaknin" <avivaknin13@gmail.com>
+Subject: RE: Help with adjusting Hadoop configuration files
+Date: Tue, 21 Jun 2011 12:47:55 +0300
+From: madhu phatak [mailto:phatak.dev@gmail.com] 
+Subject: Re: Help with adjusting Hadoop configuration files
+
+
+common-user 28764 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 15:24:08 +0530
+Subject: Re: Help with adjusting Hadoop configuration files
+From: madhu phatak <phatak.dev@gmail.com>
+
+
+common-user 28765 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 15:30:34 +0530
+Subject: Re: Starting an HDFS node (standalone) programmatically by API
+From: madhu phatak <phatak.dev@gmail.com>
+
+
+common-user 28766 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 15:41:30 +0530
+Subject: Re: HDFS File Appending
+From: madhu phatak <phatak.dev@gmail.com>
+
+
+common-user 28767 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 15:42:49 +0530
+Subject: Re: Heap Size is 27.25 MB/888.94 MB
+From: madhu phatak <phatak.dev@gmail.com>
+
+
+common-user 28768 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 15:46:35 +0530
+Subject: Re: automatic monitoring the utilization of slaves
+From: madhu phatak <phatak.dev@gmail.com>
+
+
+common-user 28769 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 15:54:54 +0530
+Subject: Re: ClassNotFoundException while running quick start guide on Windows.
+From: madhu phatak <phatak.dev@gmail.com>
+
+
+common-user 28770 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 16:00:43 +0530
+Subject: Re: Handling external jars in EMR
+From: madhu phatak <phatak.dev@gmail.com>
+
+
+common-user 28771 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 16:06:57 +0530
+Subject: Re: Append to Existing File
+From: madhu phatak <phatak.dev@gmail.com>
+
+
+common-user 28772 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 16:17:59 +0530
+Subject: Re: nomenclature
+From: madhu phatak <phatak.dev@gmail.com>
+
+
+common-user 28773 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 16:20:23 +0530
+Subject: Re: Hadoop Runner
+From: madhu phatak <phatak.dev@gmail.com>
+
+
+common-user 28774 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 12:53:33 +0200
+From: Eric Charles <eric.charles@u-mangate.com>
+Subject: Re: Append to Existing File
+
+
+common-user 28775 hadoop-common-user ----->>>>>
+From: "Avi Vaknin" <avivaknin13@gmail.com>
+Subject: RE: Help with adjusting Hadoop configuration files
+Date: Tue, 21 Jun 2011 13:58:18 +0300
+From: madhu phatak [mailto:phatak.dev@gmail.com] 
+Subject: Re: Help with adjusting Hadoop configuration files
+
+
+common-user 28776 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 16:28:29 +0530
+Subject: Re: Append to Existing File
+From: madhu phatak <phatak.dev@gmail.com>
+
+
+common-user 28777 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 16:32:22 +0530
+Subject: Re: Help with adjusting Hadoop configuration files
+From: madhu phatak <phatak.dev@gmail.com>
+
+
+common-user 28778 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 16:35:08 +0530
+Subject: Re: one-to-many Map Side Join without reducer
+From: madhu phatak <phatak.dev@gmail.com>
+
+
+common-user 28779 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 16:44:31 +0530
+Subject: Re: Running Back to Back Map-reduce jobs
+From: madhu phatak <phatak.dev@gmail.com>
+
+
+common-user 28780 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 13:18:07 +0200
+From: Eric Charles <eric.charles@u-mangate.com>
+Subject: Re: Append to Existing File
+
+
+common-user 28781 hadoop-common-user ----->>>>>
+From: "Avi Vaknin" <avivaknin13@gmail.com>
+Subject: RE: Help with adjusting Hadoop configuration files
+Date: Tue, 21 Jun 2011 14:57:52 +0300
+From: madhu phatak [mailto:phatak.dev@gmail.com] 
+Subject: Re: Help with adjusting Hadoop configuration files
+
+
+common-user 28782 hadoop-common-user ----->>>>>
+Subject: RE: Append to Existing File
+Date: Tue, 21 Jun 2011 09:00:33 -0500
+From: <Jeff.Schmitz@shell.com>
+From: Eric Charles [mailto:eric.charles@u-mangate.com]=20
+Subject: Re: Append to Existing File
+
+
+common-user 28783 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 12:03:32 -0300
+Subject: Poor scalability with map reduce application
+From: Alberto Andreotti <albertoandreotti@gmail.com>
+
+
+common-user 28784 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Tue, 21 Jun 2011 22:03:14 +0530
+Subject: Re: Poor scalability with map reduce application
+
+
+common-user 28785 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 13:57:05 -0300
+Subject: Re: Poor scalability with map reduce application
+From: Alberto Andreotti <albertoandreotti@gmail.com>
+
+
+common-user 28786 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Tue, 21 Jun 2011 22:38:52 +0530
+Subject: Re: Poor scalability with map reduce application
+
+
+common-user 28787 hadoop-common-user ----->>>>>
+From: "GOEKE, MATTHEW (AG/1000)" <matthew.goeke@monsanto.com>
+Subject: RE: Poor scalability with map reduce application
+Date: Tue, 21 Jun 2011 17:16:44 +0000
+From: Harsh J [mailto:harsh@cloudera.com]=20
+Subject: Re: Poor scalability with map reduce application
+
+
+common-user 28788 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 14:22:05 -0300
+Subject: Re: Poor scalability with map reduce application
+From: Alberto Andreotti <albertoandreotti@gmail.com>
+
+
+common-user 28789 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 14:32:31 -0300
+Subject: Re: Poor scalability with map reduce application
+From: Alberto Andreotti <albertoandreotti@gmail.com>
+
+
+common-user 28790 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 23:16:51 +0530 (IST)
+From: jagaran das <jagaran_das@yahoo.co.in>
+Subject: Re: Append to Existing File
+
+
+common-user 28791 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Tue, 21 Jun 2011 23:10:31 +0530
+Subject: Re: Poor scalability with map reduce application
+
+
+common-user 28792 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 14:53:00 -0400
+Subject: Re: Append to Existing File
+From: Joey Echeverria <joey@cloudera.com>
+
+
+common-user 28793 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 16:14:28 -0400
+Subject: Deserializing a MapWritable entry set.
+From: Dhruv Kumar <dkumar@ecs.umass.edu>
+
+
+common-user 28794 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 17:18:40 -0300
+Subject: Re: Deserializing a MapWritable entry set.
+From: Alberto Andreotti <albertoandreotti@gmail.com>
+
+
+common-user 28795 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Wed, 22 Jun 2011 01:59:06 +0530
+Subject: Re: Deserializing a MapWritable entry set.
+
+
+common-user 28796 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 16:30:02 -0400
+Subject: Re: Deserializing a MapWritable entry set.
+From: Dhruv Kumar <dkumar@ecs.umass.edu>
+
+
+common-user 28797 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Wed, 22 Jun 2011 02:02:05 +0530
+Subject: Re: Deserializing a MapWritable entry set.
+
+
+common-user 28798 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 16:36:44 -0400
+Subject: Re: Deserializing a MapWritable entry set.
+From: Dhruv Kumar <dkumar@ecs.umass.edu>
+
+
+common-user 28799 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Wed, 22 Jun 2011 02:11:30 +0530
+Subject: Re: Deserializing a MapWritable entry set.
+
+
+common-user 28800 hadoop-common-user ----->>>>>
+Date: Tue, 21 Jun 2011 17:46:58 -0700
+From: Mark <static.void.dev@gmail.com>
+Subject: Configuration settings
+
+
+common-user 28801 hadoop-common-user ----->>>>>
+Date: Wed, 22 Jun 2011 07:30:16 +0530
+Subject: Re: Configuration settings
+From: Sonal Goyal <sonalgoyal4@gmail.com>
+
+
+common-user 28802 hadoop-common-user ----->>>>>
+Date: Wed, 22 Jun 2011 11:22:54 +0900
+Subject: TableOutputFormat not efficient than direct HBase API calls?
+From: edward choi <mp2893@gmail.com>
+
+
+common-user 28803 hadoop-common-user ----->>>>>
+From: Todd Lipcon <todd@cloudera.com>
+Date: Tue, 21 Jun 2011 19:48:01 -0700
+Subject: Re: Append to Existing File
+
+
+common-user 28804 hadoop-common-user ----->>>>>
+From: Drew Gross <drew.a.gross@gmail.com>
+Date: Wed, 22 Jun 2011 00:26:00 -0400
+Subject: Re: ClassNotFoundException while running quick start guide on Windows.
+
+
+common-user 28805 hadoop-common-user ----->>>>>
+Date: Wed, 22 Jun 2011 11:21:24 +0530
+From: Devaraj K <devaraj.k@huawei.com>
+Subject: RE: ClassNotFoundException while running quick start guide on Windows.
+From: Drew Gross [mailto:drew.a.gross@gmail.com]=20
+Subject: Re: ClassNotFoundException while running quick start guide on
+
+
+common-user 28806 hadoop-common-user ----->>>>>
+Date: Wed, 22 Jun 2011 11:25:03 +0530
+Subject: Hadoop eclipse plugin stopped working after replacing hadoop-0.20.2
+From: praveenesh kumar <praveenesh@gmail.com>
+
+
+common-user 28807 hadoop-common-user ----->>>>>
+Date: Wed, 22 Jun 2011 11:48:34 +0530
+From: Devaraj K <devaraj.k@huawei.com>
+Subject: RE: Hadoop eclipse plugin stopped working after replacing
+From: praveenesh kumar [mailto:praveenesh@gmail.com] 
+Subject: Hadoop eclipse plugin stopped working after replacing hadoop-0.20.2
+
+
+common-user 28808 hadoop-common-user ----->>>>>
+Date: Wed, 22 Jun 2011 12:07:01 +0530
+Subject: Re: Hadoop eclipse plugin stopped working after replacing
+From: praveenesh kumar <praveenesh@gmail.com>
+
+
+common-user 28809 hadoop-common-user ----->>>>>
+Date: Wed, 22 Jun 2011 12:34:45 +0530
+From: Devaraj K <devaraj.k@huawei.com>
+Subject: RE: Hadoop eclipse plugin stopped working after replacing
+From: praveenesh kumar [mailto:praveenesh@gmail.com] 
+Subject: Re: Hadoop eclipse plugin stopped working after replacing
+From: praveenesh kumar [mailto:praveenesh@gmail.com]
+Subject: Hadoop eclipse plugin stopped working after replacing hadoop-0.20.2
+
+
+common-user 28810 hadoop-common-user ----->>>>>
+Date: Wed, 22 Jun 2011 06:20:09 -0700
+Subject: Backup and upgrade practices?
+From: Mark Kerzner <markkerzner@gmail.com>
+
+
+common-user 28811 hadoop-common-user ----->>>>>
+From: "Kumar, Amit H." <AHKumar@odu.edu>
+Date: Wed, 22 Jun 2011 09:49:35 -0400
+Subject: Hadoop Version 0.21 Node decommision not working
+
+
+common-user 28812 hadoop-common-user ----->>>>>
+Date: Wed, 22 Jun 2011 08:38:13 -0700 (PDT)
+From: gokul <gokrazzzy@gmail.com>
+Subject: Automatic Configuration of Hadoop Clusters
+
+
+common-user 28813 hadoop-common-user ----->>>>>
+From: Nathan Milford <nathan@milford.io>
+Date: Wed, 22 Jun 2011 12:29:31 -0400
+Subject: Re: Automatic Configuration of Hadoop Clusters
+
+
+common-user 28814 hadoop-common-user ----->>>>>
+Date: Wed, 22 Jun 2011 22:52:51 +0530
+Subject: Re: Hadoop eclipse plugin stopped working after replacing
+From: praveenesh kumar <praveenesh@gmail.com>
+
+
+common-user 28815 hadoop-common-user ----->>>>>
+From: Sandy Pratt <prattrs@adobe.com>
+Date: Wed, 22 Jun 2011 10:57:11 -0700
+Subject: RE: ClassNotFoundException while running quick start guide on
+
+
+common-user 28816 hadoop-common-user ----->>>>>
+Date: Thu, 23 Jun 2011 00:46:53 +0530 (IST)
+From: jagaran das <jagaran_das@yahoo.co.in>
+Subject: Re: Automatic Configuration of Hadoop Clusters
+
+
+common-user 28817 hadoop-common-user ----->>>>>
+From: Jack Craig <JCraig@carrieriq.com>
+Date: Wed, 22 Jun 2011 13:02:16 -0700
+Subject: Any reason Hadoop logs cant be directed to a separate filesystem?
+
+
+common-user 28818 hadoop-common-user ----->>>>>
+From: Madhu Ramanna <madhu@buysight.com>
+Date: Wed, 22 Jun 2011 13:05:46 -0700
+Subject: Re: Any reason Hadoop logs cant be directed to a separate
+
+
+common-user 28819 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Thu, 23 Jun 2011 01:39:41 +0530
+Subject: Re: Any reason Hadoop logs cant be directed to a separate filesystem?
+
+
+common-user 28820 hadoop-common-user ----->>>>>
+From: Jack Craig <JCraig@carrieriq.com>
+Date: Wed, 22 Jun 2011 14:00:23 -0700
+Subject: Re: Any reason Hadoop logs cant be directed to a separate
+
+
+common-user 28821 hadoop-common-user ----->>>>>
+Date: Thu, 23 Jun 2011 02:44:48 +0530 (IST)
+From: jagaran das <jagaran_das@yahoo.co.in>
+Subject: Re: Any reason Hadoop logs cant be directed to a separate filesystem?
+
+
+common-user 28822 hadoop-common-user ----->>>>>
+From: Sal <sals99@hotmail.com>
+Subject: Re: Problem debugging MapReduce job under Windows
+Date: Wed, 22 Jun 2011 23:08:53 +0000 (UTC)
+
+
+common-user 28823 hadoop-common-user ----->>>>>
+Date: Thu, 23 Jun 2011 07:28:05 +0800
+Subject: Re: Hadoop Eclipse plugin 0.20.203.0 doesn't work
+From: =?UTF-8?B?5Y+26L6+5bOwIChKYWNrIFllKQ==?= <kobe082005@qq.com>
+
+
+common-user 28824 hadoop-common-user ----->>>>>
+Date: Wed, 22 Jun 2011 17:40:48 -0600
+From: hadoopman <hadoopman@gmail.com>
+Subject: Re: OutOfMemoryError: GC overhead limit exceeded
+
+
+common-user 28825 hadoop-common-user ----->>>>>
+Date: Wed, 22 Jun 2011 21:44:25 -0300
+Subject: Re: Poor scalability with map reduce application
+From: Alberto Andreotti <albertoandreotti@gmail.com>
+
+
+common-user 28826 hadoop-common-user ----->>>>>
+Date: Thu, 23 Jun 2011 11:16:27 +0800
+Subject: Re: Hadoop eclipse plugin stopped working after replacing
+From: Yaozhen Pan <itzhak.pan@gmail.com>
+
+
+common-user 28827 hadoop-common-user ----->>>>>
+Date: Thu, 23 Jun 2011 11:29:02 +0800
+Subject: Re: Hadoop eclipse plugin stopped working after replacing
+From: =?UTF-8?B?5Y+26L6+5bOwIChKYWNrIFllKQ==?= <kobe082005@qq.com>
+
+
+common-user 28828 hadoop-common-user ----->>>>>
+Date: Thu, 23 Jun 2011 11:52:45 +0800
+Subject: Re: Hadoop eclipse plugin stopped working after replacing
+From: Yaozhen Pan <itzhak.pan@gmail.com>
+
+
+common-user 28829 hadoop-common-user ----->>>>>
+Date: Thu, 23 Jun 2011 12:16:57 +0800
+Subject: Re: Hadoop eclipse plugin stopped working after replacing
+From: =?UTF-8?B?5Y+26L6+5bOwIChKYWNrIFllKQ==?= <kobe082005@qq.com>
+
+
+common-user 28830 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Thu, 23 Jun 2011 10:25:52 +0530
+Subject: Re: Poor scalability with map reduce application
+
+
+common-user 28831 hadoop-common-user ----->>>>>
+Date: Thu, 23 Jun 2011 03:28:03 -0700 (PDT)
+From: irshad <irshadkt.mec@gmail.com>
+Subject: Re: Specified Datanode does'nt work when submitting a map reduce
+
+
+common-user 28832 hadoop-common-user ----->>>>>
+Date: Thu, 23 Jun 2011 10:20:43 -0300
+Subject: Re: Poor scalability with map reduce application
+From: Alberto Andreotti <albertoandreotti@gmail.com>
+
+
+common-user 28833 hadoop-common-user ----->>>>>
+From: sulabh choudhury <sulabhc@gmail.com>
+Date: Thu, 23 Jun 2011 08:45:26 -0700
+Subject: Multiple VM Arguments for daemons
+
+
+common-user 28834 hadoop-common-user ----->>>>>
+Date: Thu, 23 Jun 2011 15:59:42 -0500
+From: Shi Yu <shiyu@uchicago.edu>
+Subject: Split control in Lzo index
+
+
+common-user 28835 hadoop-common-user ----->>>>>
+Date: Thu, 23 Jun 2011 14:35:50 -0700
+Subject: Re: Split control in Lzo index
+From: Dmitriy Ryaboy <dvryaboy@gmail.com>
+
+
+common-user 28836 hadoop-common-user ----->>>>>
+Date: Thu, 23 Jun 2011 16:52:44 -0500
+From: Shi Yu <shiyu@uchicago.edu>
+Subject: Re: Split control in Lzo index
+
+
+common-user 28837 hadoop-common-user ----->>>>>
+Date: Fri, 24 Jun 2011 10:22:37 +0800
+Subject: ReflectionUtils.setConf would configure anything Configurable twice?
+From: steven zhuang <zhuangxin8448@gmail.com>
+
+
+common-user 28838 hadoop-common-user ----->>>>>
+From: Harsh J <harsh@cloudera.com>
+Date: Fri, 24 Jun 2011 10:38:10 +0530
+Subject: Re: How to configure a multi-tenancy hadoop cluster?
+
+
+common-user 28839 hadoop-common-user ----->>>>>
+Subject: Re: How to configure a multi-tenancy hadoop cluster?
+From: Harsh Chouraria <harsh@cloudera.com>
+Date: Fri, 24 Jun 2011 11:34:49 +0530
+
+
+common-user 28840 hadoop-common-user ----->>>>>
+Date: Fri, 24 Jun 2011 00:00:31 -0700 (PDT)
+From: Bharath Mundlapudi <bharathwork@yahoo.com>
+Subject: Re: Split control in Lzo index
+
+
+common-user 28841 hadoop-common-user ----->>>>>
+From: Rohit Rai <rohitbrai@gmail.com>
+Date: Fri, 24 Jun 2011 15:31:51 +0530
+Subject: Various openings for Hadoop operations and development guys at
+
+
+common-user 28842 hadoop-common-user ----->>>>>
+Date: Fri, 24 Jun 2011 12:44:13 +0200
+From: Claus Stadler <cstadler@informatik.uni-leipzig.de>
+Subject: Computing overlap of two files with hadoop
+
+
+common-user 28843 hadoop-common-user ----->>>>>
+Date: Fri, 24 Jun 2011 16:57:25 +0530
+Subject: Re: Various openings for Hadoop operations and development guys at
+From: "real great.." <greatness.hardness@gmail.com>
+
+
+common-user 28844 hadoop-common-user ----->>>>>
+Date: Fri, 24 Jun 2011 17:38:49 +0530
+Subject: Re: Various openings for Hadoop operations and development guys at
+From: Rohit Rai <rohitbrai@gmail.com>
+
+
+common-user 28845 hadoop-common-user ----->>>>>
+Date: Fri, 24 Jun 2011 22:42:14 +0530
+Subject: Queue support from HDFS
+From: Saumitra Shahapure <saumitra.official@gmail.com>
+
+
+common-user 28846 hadoop-common-user ----->>>>>
+Date: Fri, 24 Jun 2011 19:16:39 +0200
+Subject: error in reduce task
+From: Niels Boldt <nielsboldt@gmail.com>
+
+
+common-user 28847 hadoop-common-user ----->>>>>
+From: Jakob Homan <jghoman@gmail.com>
+Date: Fri, 24 Jun 2011 12:31:53 -0700
+Subject: Re: Queue support from HDFS
+
+
+common-user 28848 hadoop-common-user ----->>>>>
+Date: Fri, 24 Jun 2011 17:45:01 -0700 (PDT)
+From: zmir <ziyadmir@gmail.com>
+Subject: Re: Setting up a Single Node Hadoop Cluster
+
+
+common-user 28849 hadoop-common-user ----->>>>>
+From: Kumar Kandasami <kumaravel.kandasami@gmail.com>
+Date: Fri, 24 Jun 2011 22:36:01 -0500
+Subject: Re: Setting up a Single Node Hadoop Cluster
+
+
+common-user 28850 hadoop-common-user ----->>>>>
+Date: Sat, 25 Jun 2011 12:26:02 +0800
+Subject: Re: How to configure a multi-tenancy hadoop cluster?
+From: =?GB2312?B?v6HGvbbC?= <dujunping@gmail.com>
+
+
+common-user 28851 hadoop-common-user ----->>>>>
+From: Michael Segel <michael_segel@hotmail.com>
+Subject: RE: Any reason Hadoop logs cant be directed to a separate
+Date: Sat, 25 Jun 2011 05:58:19 -0500
+
+
+common-user 28852 hadoop-common-user ----->>>>>
+Date: Sat, 25 Jun 2011 23:36:59 +0530 (IST)
+From: jagaran das <jagaran_das@yahoo.co.in>
+Subject: Re: Any reason Hadoop logs cant be directed to a separate filesystem?
+
+
+common-user 28853 hadoop-common-user ----->>>>>
+Date: Sun, 26 Jun 2011 01:35:20 +0530
+From: Saumitra <saumitra.official@gmail.com>
+Subject: Re: Queue support from HDFS
+
+
+common-user 28854 hadoop-common-user ----->>>>>
+Date: Sat, 25 Jun 2011 23:39:10 -0500
+Subject: Comparing two logs, finding missing records
+From: Mark Kerzner <markkerzner@gmail.com>
+
+
+common-user 28855 hadoop-common-user ----->>>>>
+From: Kumar Kandasami <kumaravel.kandasami@gmail.com>
+Date: Sun, 26 Jun 2011 00:34:59 -0500
+Subject: Re: Comparing two logs, finding missing records
+
+
+common-user 28856 hadoop-common-user ----->>>>>
+Date: Sun, 26 Jun 2011 00:53:28 -0500
+Subject: Re: Comparing two logs, finding missing records
+From: Mark Kerzner <markkerzner@gmail.com>
+
+
+common-user 28857 hadoop-common-user ----->>>>>
+Date: Sun, 26 Jun 2011 15:05:06 +0800
+Subject: Lock in_use.lock failed when using nfs in namenode
+From: =?UTF-8?B?5ZCV6bmP?= <lvpengdlut@gmail.com>
+
+
+common-user 28858 hadoop-common-user ----->>>>>
+Date: Sun, 26 Jun 2011 15:31:31 +0800
+Subject: Re: How to configure a multi-tenancy hadoop cluster?
+From: =?GB2312?B?v6HGvbbC?= <dujunping@gmail.com>
+
+
+common-user 28859 hadoop-common-user ----->>>>>
+Date: Sun, 26 Jun 2011 10:34:14 -0700 (PDT)
+From: clakshminarasu <clakshminarasu@gmail.com>
+Subject: Re: Eclipse plugin
+
+
+common-user 28860 hadoop-common-user ----->>>>>
+Date: Sun, 26 Jun 2011 12:53:01 -0700
+Subject: Framework for global optimization
+From: Tim Shephard <tshephard@gmail.com>
+
+
+common-user 28861 hadoop-common-user ----->>>>>
+Date: Sun, 26 Jun 2011 15:02:10 -0700 (PDT)
+From: Bharath Mundlapudi <bharathwork@yahoo.com>
+Subject: Re: Queue support from HDFS
+
+
+common-user 28862 hadoop-common-user ----->>>>>
+Date: Sun, 26 Jun 2011 15:12:35 -0700 (PDT)
+From: Bharath Mundlapudi <bharathwork@yahoo.com>
+Subject: Re: Comparing two logs, finding missing records
+From: Mark Kerzner <markkerzner@gmail.com>
+Subject: Comparing two logs, finding missing records
+
+
+common-user 28863 hadoop-common-user ----->>>>>
+Date: Sun, 26 Jun 2011 15:12:35 -0700 (PDT)
+From: Bharath Mundlapudi <bharathwork@yahoo.com>
+Subject: Re: Comparing two logs, finding missing records
+From: Mark Kerzner <markkerzner@gmail.com>
+Subject: Comparing two logs, finding missing records
+
+
+common-user 28864 hadoop-common-user ----->>>>>
+Date: Sun, 26 Jun 2011 17:24:12 -0500
+Subject: Re: Comparing two logs, finding missing records
+From: Mark Kerzner <markkerzner@gmail.com>
+
+
+common-user 28865 hadoop-common-user ----->>>>>
+Date: Mon, 27 Jun 2011 08:14:54 +0800
+Subject: Re: Eclipse plugin
+From: =?UTF-8?B?5Y+26L6+5bOwIChKYWNrIFllKQ==?= <kobe082005@qq.com>
+
+
+common-user 28866 hadoop-common-user ----->>>>>
+Date: Mon, 27 Jun 2011 08:14:54 +0800
+Subject: Re: Eclipse plugin
+From: =?UTF-8?B?5Y+26L6+5bOwIChKYWNrIFllKQ==?= <kobe082005@qq.com>
+
+
+common-user 28867 hadoop-common-user ----->>>>>
+Date: Sun, 26 Jun 2011 17:34:34 -0700
+From: Mark <static.void.dev@gmail.com>
+Subject: Reading HDFS files via Spring
+
+
+common-user 28868 hadoop-common-user ----->>>>>
+Date: Sun, 26 Jun 2011 17:44:57 -0700
+Subject: Configured Capacity not matching actual available space (using HDFS
+From: Adam Yee <adamjyee@gmail.com>
+
+
+common-user 28869 hadoop-common-user ----->>>>>
+Date: Sun, 26 Jun 2011 19:50:28 -0500
+Subject: Re: Comparing two logs, finding missing records
+From: Mark Kerzner <markkerzner@gmail.com>
+
+
+common-user 28870 hadoop-common-user ----->>>>>
+Date: Sun, 26 Jun 2011 18:00:21 -0700 (PDT)
+From: Bharath Mundlapudi <bharathwork@yahoo.com>
+Subject: Re: Reading HDFS files via Spring
+
+
+common-user 28871 hadoop-common-user ----->>>>>
+Date: Sun, 26 Jun 2011 18:04:28 -0700 (PDT)
+From: Bharath Mundlapudi <bharathwork@yahoo.com>
+Subject: Re: Comparing two logs, finding missing records
+From: Mark Kerzner <markkerzner@gmail.com>
+Subject: Re: Comparing two logs, finding missing records
+
+
+common-user 28872 hadoop-common-user ----->>>>>
+Date: Sun, 26 Jun 2011 21:20:45 -0500
+Subject: Re: Comparing two logs, finding missing records
+From: Mark Kerzner <markkerzner@gmail.com>
+
+
+common-user 28873 hadoop-common-user ----->>>>>
+Date: Mon, 27 Jun 2011 15:11:23 +0800
+Subject: How to select random n records using mapreduce ?
+From: Jeff Zhang <zjffdu@gmail.com>
+
+
+common-user 28874 hadoop-common-user ----->>>>>
+Date: Mon, 27 Jun 2011 13:29:40 +0530
+Subject: Re: Comparing two logs, finding missing records
+From: Rajesh Balamohan <rajesh.balamohan@gmail.com>
+
+
+common-user 28875 hadoop-common-user ----->>>>>
+Date: Mon, 27 Jun 2011 06:06:32 -0400
+Subject: tar or hadoop archive
+From: Rita <rmorgan466@gmail.com>
+
+
+common-user 28876 hadoop-common-user ----->>>>>
+From: "GOEKE, MATTHEW (AG/1000)" <matthew.goeke@monsanto.com>
+Subject: RE: Queue support from HDFS
+Date: Fri, 24 Jun 2011 19:15:32 +0000
+From: saumitra.shahapure@gmail.com [mailto:saumitra.shahapure@gmail.com] On=
+Subject: Queue support from HDFS
+
+
+common-user 28877 hadoop-common-user ----->>>>>
+Date: Mon, 27 Jun 2011 12:42:57 +0100
+From: Steve Loughran <stevel@apache.org>
+Subject: Re: error in reduce task
+
+
+common-user 28878 hadoop-common-user ----->>>>>
+Date: Mon, 27 Jun 2011 09:04:19 -0400
+From: John Armstrong <john.armstrong@ccri.com>
+Subject: Re: Reading HDFS files via Spring
+
+
+common-user 28879 hadoop-common-user ----->>>>>
+Date: Mon, 27 Jun 2011 06:55:02 -0700 (PDT)
+From: Daniele Tiles <d.tiles@iconsulting.biz>
+Subject: Logical distribution of a file to multiple servers
+
+
+common-user 28880 hadoop-common-user ----->>>>>
+Date: Mon, 27 Jun 2011 07:10:04 -0700
+Subject: Re: tar or hadoop archive
+From: Joey Echeverria <joey@cloudera.com>
+
+
+common-user 28881 hadoop-common-user ----->>>>>
+Date: Mon, 27 Jun 2011 18:36:21 +0200
+From: Claus Stadler <cstadler@informatik.uni-leipzig.de>
+Subject: Re: Computing overlap of two files with hadoop
+
+
+common-user 28882 hadoop-common-user ----->>>>>
+Date: Mon, 27 Jun 2011 21:28:43 +0200
+Subject: Re: How to select random n records using mapreduce ?
+From: Niels Basjes <Niels@basjes.nl>
+
+
+common-user 28883 hadoop-common-user ----->>>>>
+Date: Mon, 27 Jun 2011 16:50:12 -0300
+Subject: Performance Tunning
+From: "Juan P." <gordoslocos@gmail.com>
+
+
+common-user 28884 hadoop-common-user ----->>>>>
+From: "Habermaas, William" <William.Habermaas@fatwire.com>
+Date: Mon, 27 Jun 2011 12:54:34 -0700
+Subject: RE: How to select random n records using mapreduce ?
+
+
+common-user 28885 hadoop-common-user ----->>>>>
+From: "GOEKE, MATTHEW (AG/1000)" <matthew.goeke@monsanto.com>
+Subject: RE: Performance Tunning
+Date: Mon, 27 Jun 2011 19:59:51 +0000
+From: Juan P. [mailto:gordoslocos@gmail.com]=20
+Subject: Performance Tunning
+
+
+common-user 28886 hadoop-common-user ----->>>>>
+Subject: RE: How to select random n records using mapreduce ?
+Date: Mon, 27 Jun 2011 15:00:38 -0500
+From: <Jeff.Schmitz@shell.com>
+From: Habermaas, William [mailto:William.Habermaas@fatwire.com]=20
+Subject: RE: How to select random n records using mapreduce ?
+From: niels@basj.es [mailto:niels@basj.es] On Behalf Of Niels Basjes
+Subject: Re: How to select random n records using mapreduce ?
+
+
+common-user 28887 hadoop-common-user ----->>>>>
+Date: Mon, 27 Jun 2011 13:01:28 -0700
+Subject: Re: How to select random n records using mapreduce ?
+From: Matt Pouttu-Clarke <Matt.Pouttu-Clarke@icrossing.com>
+
+
+common-user 28888 hadoop-common-user ----->>>>>
+Date: Mon, 27 Jun 2011 13:24:19 -0700
+Subject: Why I cannot see live nodes in a LAN-based cluster setup?
+From: Jingwei Lu <jlu@ucsd.edu>
+
+
+common-user 28889 hadoop-common-user ----->>>>>
+From: "GOEKE, MATTHEW (AG/1000)" <matthew.goeke@monsanto.com>
+Subject: RE: Why I cannot see live nodes in a LAN-based cluster setup?
+Date: Mon, 27 Jun 2011 20:28:12 +0000
+
+
+common-user 28890 hadoop-common-user ----->>>>>
+Date: Mon, 27 Jun 2011 13:58:09 -0700
+Subject: Re: Why I cannot see live nodes in a LAN-based cluster setup?
+From: Jingwei Lu <jlu@ucsd.edu>
+
+
+common-user 28891 hadoop-common-user ----->>>>>
+Subject: RE: Why I cannot see live nodes in a LAN-based cluster setup?
+Date: Mon, 27 Jun 2011 16:08:07 -0500
+From: <Jeff.Schmitz@shell.com>
+
+
+common-user 28892 hadoop-common-user ----->>>>>
+From: "GOEKE, MATTHEW (AG/1000)" <matthew.goeke@monsanto.com>
+Subject: RE: Why I cannot see live nodes in a LAN-based cluster setup?
+Date: Mon, 27 Jun 2011 21:22:40 +0000
+
+
+common-user 28893 hadoop-common-user ----->>>>>
+Date: Mon, 27 Jun 2011 19:33:33 -0300
+Subject: Re: Performance Tunning
+From: "Juan P." <gordoslocos@gmail.com>
+
+
+common-user 28894 hadoop-common-user ----->>>>>
+Date: Mon, 27 Jun 2011 15:38:05 -0700
+Subject: Re: Why I cannot see live nodes in a LAN-based cluster setup?
+From: Jingwei Lu <jlu@ucsd.edu>
+
+
+common-user 28895 hadoop-common-user ----->>>>>
+Date: Mon, 27 Jun 2011 19:36:15 -0400
+Subject: Re: tar or hadoop archive
+From: Rita <rmorgan466@gmail.com>
+
+
+common-user 28896 hadoop-common-user ----->>>>>
+Date: Mon, 27 Jun 2011 16:46:38 -0700
+Subject: Re: tar or hadoop archive
+From: Joey Echeverria <joey@cloudera.com>
+
+
+common-user 28897 hadoop-common-user ----->>>>>
+Date: Tue, 28 Jun 2011 00:13:08 -0300
+Subject: Re: Performance Tunning
+From: "Juan P." <gordoslocos@gmail.com>
+
+
+common-user 28898 hadoop-common-user ----->>>>>
+From: "GOEKE, MATTHEW (AG/1000)" <matthew.goeke@monsanto.com>
+Subject: RE: Why I cannot see live nodes in a LAN-based cluster setup?
+Date: Tue, 28 Jun 2011 03:56:34 +0000
+
+
+common-user 28899 hadoop-common-user ----->>>>>
+From: "GOEKE, MATTHEW (AG/1000)" <matthew.goeke@monsanto.com>
+Subject: RE: Performance Tunning
+Date: Tue, 28 Jun 2011 04:11:56 +0000
+From: Juan P. [mailto:gordoslocos@gmail.com]=20
+Subject: Re: Performance Tunning
+
+
+common-user 28900 hadoop-common-user ----->>>>>
+Date: Tue, 28 Jun 2011 12:29:51 +0300
+From: Vitalii Tymchyshyn <tivv00@gmail.com>
+Subject: HARs without Map/Reduce
+
+
+common-user 28901 hadoop-common-user ----->>>>>
+Date: Tue, 28 Jun 2011 17:42:41 +0530
+From: Prashant Sharma <prashant.s@imaginea.com>
+Subject: Api migration from 0.19.1 to 0.20.20
+
+
+common-user 28902 hadoop-common-user ----->>>>>
+Subject: Re: Performance Tunning
+From: Michel Segel <michael_segel@hotmail.com>
+Date: Tue, 28 Jun 2011 07:38:58 -0500
+
+
+common-user 28903 hadoop-common-user ----->>>>>
+Subject: RE: Why I cannot see live nodes in a LAN-based cluster setup?
+Date: Tue, 28 Jun 2011 09:30:48 -0500
+From: <Jeff.Schmitz@shell.com>
+
+
+common-user 28904 hadoop-common-user ----->>>>>
+From: "GOEKE, MATTHEW (AG/1000)" <matthew.goeke@monsanto.com>
+Subject: RE: Performance Tunning
+Date: Tue, 28 Jun 2011 14:46:40 +0000
+From: im_gumby@hotmail.com [mailto:im_gumby@hotmail.com] On Behalf Of Miche=
+Subject: Re: Performance Tunning
+
+
+common-user 28905 hadoop-common-user ----->>>>>
+Date: Tue, 28 Jun 2011 10:00:38 -0500
+From: Shi Yu <shiyu@uchicago.edu>
+Subject: Re: Api migration from 0.19.1 to 0.20.20
+
+
+common-user 28906 hadoop-common-user ----->>>>>
+From: Guang-Nan Cheng <chenggn@gmail.com>
+Date: Wed, 29 Jun 2011 00:19:41 +0800
+Subject: Passing files and directory structures to the map reduce cluster via
+
+
+common-user 28907 hadoop-common-user ----->>>>>
+Date: Tue, 28 Jun 2011 11:26:19 -0500
+From: Nick Jones <nick.jones@amd.com>
+Subject: Re: Passing files and directory structures to the map reduce cluster
+
+
+common-user 28908 hadoop-common-user ----->>>>>
+Date: Tue, 28 Jun 2011 17:35:37 +0100
+Subject: Re: Passing files and directory structures to the map reduce cluster
+From: Abhinay Mehta <abhinay.mehta@gmail.com>
+
+
+common-user 28909 hadoop-common-user ----->>>>>
+From: "Saqib Jang -- Margalla Communications" <saqibj@margallacomm.com>
+Subject: Sanity check re: value of 10GbE NICs for Hadoop?
+Date: Tue, 28 Jun 2011 10:16:53 -0700
+
+
+common-user 28910 hadoop-common-user ----->>>>>
+Date: Tue, 28 Jun 2011 13:21:12 -0400
+From: Darren Govoni <darren@ontrenet.com>
+Subject: Re: Sanity check re: value of 10GbE NICs for Hadoop?
+
+
+common-user 28911 hadoop-common-user ----->>>>>
+From: "Saqib Jang -- Margalla Communications" <saqibj@margallacomm.com>
+Subject: RE: Sanity check re: value of 10GbE NICs for Hadoop?
+Date: Tue, 28 Jun 2011 10:27:23 -0700
+From: Darren Govoni [mailto:darren@ontrenet.com] 
+Subject: Re: Sanity check re: value of 10GbE NICs for Hadoop?
+
+
+common-user 28912 hadoop-common-user ----->>>>>
+Date: Tue, 28 Jun 2011 13:41:18 -0400
+From: Darren Govoni <darren@ontrenet.com>
+Subject: Re: Sanity check re: value of 10GbE NICs for Hadoop?
+
+
+common-user 28913 hadoop-common-user ----->>>>>
+From: Michael Segel <michael_segel@hotmail.com>
+Subject: RE: Performance Tunning
+Date: Tue, 28 Jun 2011 13:30:31 -0500
+
+
+common-user 28914 hadoop-common-user ----->>>>>
+From: "GOEKE, MATTHEW (AG/1000)" <matthew.goeke@monsanto.com>
+Subject: RE: Performance Tunning
+Date: Tue, 28 Jun 2011 18:48:11 +0000
+From: Michael Segel [mailto:michael_segel@hotmail.com]=20
+Subject: RE: Performance Tunning
+
+
+common-user 28915 hadoop-common-user ----->>>>>
+From: Matthew Foley <mattf@yahoo-inc.com>
+Date: Tue, 28 Jun 2011 12:04:17 -0700
+Subject: Re: Sanity check re: value of 10GbE NICs for Hadoop?
+
+
+common-user 28916 hadoop-common-user ----->>>>>
+Date: Tue, 28 Jun 2011 12:43:35 -0700 (PDT)
+From: Bharath Mundlapudi <bharathwork@yahoo.com>
+Subject: Hadoop Summit - Poster 49
+
+
+common-user 28917 hadoop-common-user ----->>>>>
+Date: Tue, 28 Jun 2011 14:56:36 -0500
+Subject: Re: Hadoop Summit - Poster 49
+From: Mark Kerzner <markkerzner@gmail.com>
+
+
+common-user 28918 hadoop-common-user ----->>>>>
+Date: Tue, 28 Jun 2011 05:46:39 -0700 (PDT)
+From: jitter <chickychama@gmail.com>
+Subject: hadoop pipes
+
+
+common-user 28919 hadoop-common-user ----->>>>>
+Date: Tue, 28 Jun 2011 14:53:05 -0700
+Subject: How do I do a reduce-side Join on values with different serialization types?
+From: "W.P. McNeill" <billmcn@gmail.com>
+
+
+common-user 28920 hadoop-common-user ----->>>>>
+From: "Saqib Jang -- Margalla Communications" <saqibj@margallacomm.com>
+Subject: RE: Sanity check re: value of 10GbE NICs for Hadoop?
+Date: Tue, 28 Jun 2011 15:06:27 -0700
+From: Matthew Foley [mailto:mattf@yahoo-inc.com] 
+Subject: Re: Sanity check re: value of 10GbE NICs for Hadoop?
+
+
+common-user 28921 hadoop-common-user ----->>>>>
+Subject: Re: Sanity check re: value of 10GbE NICs for Hadoop?
+From: Matei Zaharia <matei@eecs.berkeley.edu>
+Date: Tue, 28 Jun 2011 16:02:27 -0700
+
+
+common-user 28922 hadoop-common-user ----->>>>>
+From: James Seigel <james@tynt.com>
+Date: Tue, 28 Jun 2011 17:04:34 -0600
+Subject: Re: Sanity check re: value of 10GbE NICs for Hadoop?
+
+
+common-user 28923 hadoop-common-user ----->>>>>
+Date: Wed, 29 Jun 2011 01:05:18 +0200
+Subject: Re: Sanity check re: value of 10GbE NICs for Hadoop?
+From: Mathias Herberts <mathias.herberts@gmail.com>
+
+
+common-user 28924 hadoop-common-user ----->>>>>
+Date: Tue, 28 Jun 2011 16:13:09 -0700
+Subject: Re: Sanity check re: value of 10GbE NICs for Hadoop?
+From: Russell Jurney <russell.jurney@gmail.com>
+
+
+common-user 28925 hadoop-common-user ----->>>>>
+Date: Tue, 28 Jun 2011 21:06:52 -0400
+Subject: Re: How do I do a reduce-side Join on values with different
+From: Dhruv Kumar <dkumar@ecs.umass.edu>
+
+
+common-user 28926 hadoop-common-user ----->>>>>
+Date: Tue, 28 Jun 2011 18:27:22 -0700 (PDT)
+From: Bharath Mundlapudi <bharathwork@yahoo.com>
+Subject: Re: Hadoop Summit - Poster 49
+
+
+common-user 28927 hadoop-common-user ----->>>>>
+Date: Tue, 28 Jun 2011 22:27:39 -0600
+Subject: Re: Sanity check re: value of 10GbE NICs for Hadoop?
+From: Matt Davies <matt@mattdavies.net>
+
+
+common-user 28928 hadoop-common-user ----->>>>>
+Date: Wed, 29 Jun 2011 10:24:45 +0530
+Subject: Help for upgrading my hadoop-0.19.1 version to hadoop-0.20.2
+From: rajesh putta <rajesh.putt@gmail.com>
+
+
+common-user 28929 hadoop-common-user ----->>>>>
+Date: Wed, 29 Jun 2011 10:34:59 +0530
+From: rajesh.p@imaginea.com
+Subject: Help for upgrading my hadoop-0.19.1 version to hadoop-0.20.2
+
+
+common-user 28930 hadoop-common-user ----->>>>>
+Date: Wed, 29 Jun 2011 10:48:56 +0530
+Subject: Help for upgrading my hadoop-0.19.1 version to hadoop-0.20.2
+From: rajesh putta <rajesh.putt@gmail.com>
+
+
+common-user 28931 hadoop-common-user ----->>>>>
+From: Amareshwari Sri Ramadasu <amarsri@yahoo-inc.com>
+Date: Wed, 29 Jun 2011 10:51:03 +0530
+Subject: Re: Help for upgrading my hadoop-0.19.1 version to hadoop-0.20.2
+
+
+common-user 28932 hadoop-common-user ----->>>>>
+Date: Tue, 28 Jun 2011 23:07:40 -0700 (PDT)
+From: Bharath Mundlapudi <bharathwork@yahoo.com>
+Subject: Re: Sanity check re: value of 10GbE NICs for Hadoop?
+
+
+common-user 28933 hadoop-common-user ----->>>>>
+From: Guang-Nan Cheng <chenggn@gmail.com>
+Date: Wed, 29 Jun 2011 14:44:32 +0800
+Subject: Re: Passing files and directory structures to the map reduce cluster
+
+
+common-user 28934 hadoop-common-user ----->>>>>
+From: Paul Ingles <paul@oobaloo.co.uk>
+Subject: Re: Passing files and directory structures to the map reduce cluster via hadoop streaming?
+Date: Wed, 29 Jun 2011 07:59:35 +0100
+
+
+common-user 28935 hadoop-common-user ----->>>>>
+Date: Wed, 29 Jun 2011 15:05:06 +0800
+Subject: Re: ReflectionUtils.setConf would configure anything Configurable twice?
+From: steven zhuang <zhuangxin8448@gmail.com>
+
+
+common-user 28936 hadoop-common-user ----->>>>>
+From: Keren Ouaknine <kereno@gmail.com>
+Date: Wed, 29 Jun 2011 14:33:48 +0300
+Subject: conferences
+
+
+common-user 28937 hadoop-common-user ----->>>>>
+Date: Wed, 29 Jun 2011 14:06:41 +0200
+From: Eric Charles <eric.charles@u-mangate.com>
+Subject: Re: conferences
+
+
+common-user 28938 hadoop-common-user ----->>>>>
+Subject: RE: conferences
+Date: Wed, 29 Jun 2011 08:06:41 -0500
+From: <Jeff.Schmitz@shell.com>
+From: Keren Ouaknine [mailto:kereno@gmail.com]=20
+Subject: conferences
+
+
+common-user 28939 hadoop-common-user ----->>>>>
+Date: Wed, 29 Jun 2011 21:06:58 +0800
+Subject: extremely imbalance in the hdfs cluster
+From: =?UTF-8?B?6IyF5pet5bOw?= <m9suns@gmail.com>
+
+
+common-user 28940 hadoop-common-user ----->>>>>
+Date: Wed, 29 Jun 2011 11:24:13 -0400
+Subject: Re: extremely imbalance in the hdfs cluster
+From: Edward Capriolo <edlinuxguru@gmail.com>
+
+
+common-user 28941 hadoop-common-user ----->>>>>
+Date: Wed, 29 Jun 2011 13:39:50 -0700
+Subject: Question about data sorting on Hadoop
+From: Jingwei Lu <jlu@ucsd.edu>
+
+
+common-user 28942 hadoop-common-user ----->>>>>
+Subject: Re: Sanity check re: value of 10GbE NICs for Hadoop?
+From: Michel Segel <michael_segel@hotmail.com>
+Date: Wed, 29 Jun 2011 16:04:10 -0500
+
+
+common-user 28943 hadoop-common-user ----->>>>>
+From: Matthew Foley <mattf@yahoo-inc.com>
+Date: Wed, 29 Jun 2011 21:03:18 -0700
+Subject: Re: Sanity check re: value of 10GbE NICs for Hadoop?
+
+
+common-user 28944 hadoop-common-user ----->>>>>
+From: Matthew Foley <mattf@yahoo-inc.com>
+Date: Wed, 29 Jun 2011 21:04:10 -0700
+Subject: Re: Sanity check re: value of 10GbE NICs for Hadoop?
+
+
+common-user 28945 hadoop-common-user ----->>>>>
+Date: Thu, 30 Jun 2011 12:22:06 +0800
+Subject: Re: extremely imbalance in the hdfs cluster
+From: =?UTF-8?B?6IyF5pet5bOw?= <m9suns@gmail.com>
+
+
+common-user 28946 hadoop-common-user ----->>>>>
+Date: Thu, 30 Jun 2011 07:54:04 +0100
+From: Paolo Castagna <castagna.lists@googlemail.com>
+Subject: NullPointerException when running multiple reducers with Hadoop 0.22.0-SNAPSHOT
+
+
+common-user 28947 hadoop-common-user ----->>>>>
+Date: Thu, 30 Jun 2011 10:56:29 -0400
+From: John Armstrong <john.armstrong@ccri.com>
+Subject: Requiring configuration parameters in Tools
+
+
+common-user 28948 hadoop-common-user ----->>>>>
+Date: Thu, 30 Jun 2011 20:47:58 +0530
+Subject: Re: NullPointerException when running multiple reducers with Hadoop 0.22.0-SNAPSHOT
+From: madhu phatak <phatak.dev@gmail.com>
+
+
+common-user 28949 hadoop-common-user ----->>>>>
+From: Aaron Baff <Aaron.Baff@telescope.tv>
+Date: Thu, 30 Jun 2011 10:02:59 -0700
+Subject: RE: NullPointerException when running multiple reducers with Hadoop
+From: Paolo Castagna [mailto:castagna.lists@googlemail.com]
+Subject: NullPointerException when running multiple reducers with Hadoop 0.=
+
+
+common-user 28950 hadoop-common-user ----->>>>>
+Date: Thu, 30 Jun 2011 20:53:15 +0545
+Subject: problem regarding the hadoop
+From: Ashish Tamrakar <ashishtamrakar@gmail.com>
+
+
+common-user 28951 hadoop-common-user ----->>>>>
+Date: Thu, 30 Jun 2011 11:49:41 -0700 (PDT)
+From: Bharath Mundlapudi <bharathwork@yahoo.com>
+Subject: Re: Sanity check re: value of 10GbE NICs for Hadoop?
+
+
+common-user 28952 hadoop-common-user ----->>>>>
+Date: Thu, 30 Jun 2011 15:07:11 -0400
+Subject: Re: problem regarding the hadoop
+From: Dhruv Kumar <dkumar@ecs.umass.edu>
+
+
+common-user 28953 hadoop-common-user ----->>>>>
+Date: Fri, 1 Jul 2011 09:23:17 +1000
+Subject: Re: problem regarding the hadoop
+From: Paul Rimba <paul.rimba@gmail.com>
+
+
+common-user 28954 hadoop-common-user ----->>>>>
+Date: Thu, 30 Jun 2011 16:27:02 -0700
+Subject: Re: problem regarding the hadoop
+From: Mitra Kaseebhotla <mitra.kaseebhotla@gmail.com>
